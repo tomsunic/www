@@ -1,0 +1,86 @@
+---
+title: "When is the final decadence coming? From Sallust and Juvenal to the present (Part 1), TOO. April 5, 2019"
+date: 2020-02-27
+categories: 
+  - english-essays
+authors: 
+  - tomsunic
+---
+
+The Ancients, that is, our Greco-German-Gallo-Slavo-Illyro-Roman ancestors, were well aware of hereditary causes of decadence, although they attributed to this notion different names. The idea of decadence, let alone its reality, has always been present, although its current denomination came first into the French language by the eighteenth century in the writings of Montesquieu.[^1] Later on, toward the end of the nineteenth century, the so-called “decadent” poets in France were a favorite and highly praised genre in traditionalist literary circles, labelled today in a somewhat derogatory way as “far-right circles.” Subsequently, these so-called decadent poets and writers started to exert a considerable influence on many right-wing rebels despite their own often unbridled, transracial, alcoholic and narcotized manners, or simply put, despite their decadent lifestyles.[^2]
+
+Although less common than in France, the term “Dekadenz” was also common in the prose of reactionary and revolutionary conservative writers in Germany by the end of the nineteenth century and at the beginning of the twentieth century. Like their counterparts in France, these writers had become terrified over the climate of moral decay and capitalist anomie in the cultural and political life of their country. It should be pointed out, however, that the German word “Dekadenz,” which is of French origin, has a different meaning in the German language, a language which prefers tapping into its own lexical treasure trove and where signifiers often yield different meanings. A good German conceptual equivalent of the French word “décadence” would be a very unique German term “Entartung”, a term translated into French and English by a heavy-handed term “degeneracy,” which, because of its biological connotations, does not always match with the original meaning of the German word “Entartung.”
+
+The German word “Entartung,” whose etymology and meaning were originally politically neutral, refers to a process of “de-naturalization,” a process not exclusively linked to biological degeneration. This unique German word, due to its frequent use during the period of the National Socialist rule in Germany, underwent a negative semantic shift in the wake of World War II and following the Allied anti-German propaganda, to the point that it is no longer in use in the realm of culture and politics in contemporary Germany.[^3]
+
+In ex-Communist Eastern Europe, during the Cold War, the term decadence was almost non-existent. Instead, the communist commissars blasted Western capitalist mores with a revolutionary and all-purpose term that soon became a derogatory buzzword in the communist vernacular: “bourgeois.” In summary, one can conclude that the most avid users of the term “decadence,” as well as its most ardent critics, have been writers classified as right-wingers or authors on the far right.
+
+Three essential questions need to be raised. When does decadence start to manifest itself, what are its origins, and how does it end? A host of premodern and postmodern writers, from JB Bossuet to Emile Cioran, each in his own way and each resorting to his own mode of literary expression, have provided us with apocalyptic accounts of decadence seen as steering us now toward the end-times of the European world.
+
+Despite this, it seems that Europe is still alive and kicking despite a series of decadences it has encountered over its history, starting with the decadence in ancient Rome all the way to serial decadences in modern times. With one big exception. In view of the large-scale racial replacement of European peoples by the masses of non-European peoples, the old European world seems to be now preordained not to a transient decadence, but rather to a terminal decadence.
+
+Before one starts lamenting about the decadences described by our Roman literary ancestors and our contemporary authors, and whichever appellation critics may attribute them, such as “nationalists”, “identitarians, “traditionalists”, “ the alternative right, “or the extreme right” and so on, it is important to single out two modern authors who had first signaled the arrival of the final decadence, although their respective approaches to the content and the causes of decadence were quite opposite. These are the German author Oswald Spengler and his thick two volumes Decline of the West, written at the beginning of the twentieth century, and the French Arthur de Gobineau whose equally massive work, The Inequality of the Human Races, was written sixty years earlier. Both men were writers of prodigious culture, both shared the same apocalyptic vision of the European future, and both can be rightfully called cultural pessimists with a refined sense of the tragic.
+
+For Spengler, decadence is the result of natural biological aging of human populations, aging that befalls each people at a predictable historical moment, resulting in its death. For Gobineau, decadence is caused by the loss of racial consciousness, making a people accept false altruism, forcing it to open up the gates of its city to its former enemies, causing it to embrace members of another race, and spurring it, little by little, to indulge in miscegenation and finally accepting its own death. Similar observations were made by many German scientists in the interwar period. Here, however, one must make a clear distinction between the causes and the consequences of decadence. The tedium vitae (life fatigue), the corruption of morals, debauchery, and avarice, are only the effects of the fading of racial consciousness and not its cause. Racial mixture or miscegenation, terms avoided today by the establishment and its scribes, were designated by Gobineau by the term “degeneration.” Accordingly, racial degeneration operates as to grind down the genetic heritage of all European peoples:
+
+The word degenerate, when applied to a people, means (as it ought to mean) that the people has no longer the same intrinsic value as it had before, because it has no longer the same blood in its veins, continual adulterations having gradually affected the quality of that blood. In other words, though the nation bears the name given by its founders, the name no longer connotes the same race; in fact, the man of a decadent time, the degenerate man properly so called, is a different being, from the racial point of view, from the heroes of the great ages.[^4]
+
+Later on, Gobineau summarizes in a single sentence the main thesis of his entire work: “Above all, and without adding anything else, almost everything that Imperial Rome knew well came out of a Germanic source.”[^5]
+
+What strikes the eye is that sixty years later, that is, at the beginning of the twentieth century, the German Oswald Spengler, hailed now as the best weatherman of decadence, never quotes anywhere in his work Arthur de Gobineau despite his numerous quotations on decadence borrowed from other French authors.
+
+## The Enemy Within
+
+One must continue with theoretical remarks on the causes of the decline of racial consciousness, which in turn makes miscegenation look like a new and respectable way of life. However, one needs to look first at the notion of decadence as examined by the Roman writers Sallust and Juvenal within the social context of ancient Rome. Sallust is important in many ways. First, he was the contemporary of the Catiline conspiracy, fomented by Cataline, an ambitious Roman noble who, along with many of his consorts of the decadent Roman nobility, had almost overthrown the Roman Republic and imposed his dictatorship. Sallust was a partisan of Julius Caesar who later became the self-proclaimed dictator of Rome, following the periods of endless civil wars that had impoverished the genetic fund of Roman patricians.
+
+Moreover, Sallust leaves us precious pages describing an important notion of politics which he calls “metus hostilis” or “fear of the enemy”, a notion that had constituted among the Romans during their wars against the Gauls and Carthaginians of the preceding century, the main shield for their racial preservation, their virtue, their virility, as well as a solid awareness of their ancestral lineage. However, after ridding themselves militarily of “metus Punicus” (fear of the Carthaginians) and “metus Gallicus” (fear of the Gauls), after having removed all danger of external invasion, the Romans, in the middle of the second century BC, quickly forgot the unifying power of communal spirit inspired by “metus hostilis”, or the “fear of the Other.” Creeping fashion of miscegenation with a taste for interbreeding with members of non-European tribes resulted in the loss of their collective memory — a first sign of decadence.
+
+Here is a short quote by Sallust from his book Conspiracy of Catiline, Chapter 10.
+
+Those who had found it easy to bear hardship and dangers, anxiety and adversity, found leisure and wealth, desirable under other circumstances, a burden and a curse. Hence the lust for money first, then for power, grew upon them; these were, I may say, the root of all evils. For avarice destroyed honour, integrity, and all other noble qualities; taught in their place insolence, cruelty, to neglect the gods to set a price on everything.[^6]
+
+The fear of the enemy, the fear of the Other, a notion used by Sallust, was much discussed by European historians, political scientists and sociologists in the nineteenth and twentieth centuries. This notion, launched first by Sallust, can help us grasp the mindset of non-European migrants swarming now in Europe, as well as the minds of White European politicians extending welcoming invitations to migrants. Admittedly, the fear of the Other may become the strengthening factor of racial identity, as can be seen in the proliferation of different White identity groups in Europe today. However, at a given moment, the “metus hostilis,” fear of the Other, runs the risk of morphing into its opposite, namely the “amor hostilis”, or love of the enemy, which in turn destroys the racial and cultural identity of a host nation. Today’s Westerners are already victims of such a new multiracial landscape, a landscape in which they were born and in which they continue to live. Worse, White Europeans, little by little, are visually getting accustomed to such a new racial re-composition of their homelands, even interiorizing it as a natural matter of fact. These are the same people who only a few decades earlier would have considered surreal and morbid any such idea of racial change followed by unbridled altruism, and would have been willing to fight it by all means available.
+
+There is no doubt that the fear of the Other, be it real or artificial fear, tightens the ranks of a nation while fortifying its racial homogeneity and cultural identity. But there is a negative side effect to the fear of the Other which was taking place in imperial Rome and which was well described by Juvenal. The sum total of the love of the enemy (amor hostilis) reached its apex toward the end of the twentieth century in the West. As a result of material opulence and a self-imposed dictatorship of well-being, accompanied by the belief in the end history as conveyed by a set of strange egalitarian dogmas, the Europeans have started, little by little, to mimic customs and habits of their former enemies. Formerly these enemies were Phoenicians, Jews, Berbers, Numidians, Parthians and Maghrebians, considered also hereditary enemies by the Romans. Today, faced with storms of non-European migrants the old White fear of the alien Other manifests itself in the apprenticeship of “self-denial” — rejecting the self. The process of White self-denial, best observed today amidst the European and American political class, is operating as a psychological ersatz for former White racial identity, which, from now on, is either scorned or discarded. By way of example such a new negative identity, put on display daily by Western rulers, takes the shape of imitative doubling down of the mores of Afro-Asian migrants.
+
+We are also witnessing the apprenticeship program of negative identity among many young Whites mimicking diverse non-European cults. Moreover, the reversal of the notion of “metus hostilis” into “amor hostilis” by the current European rulers results in the culture of political penitence. Such national-masochistic mania is especially visible among contemporary German politicians who embark daily on neurotic hugging sessions with Afro-Asian and Muslim nationals against whom their forefathers had waged savage wars of survival from the eighth century in Western Europe until the eighteenth century in Eastern Europe. The present obsession with the extra-European Other — whose image is being embellished by the contemporary media and cinema — was already widespread among the decadent Roman patricians in the first century A.D., as described by the satirist Juvenal. In his Third satire, entitled Fleeing Rome (Urbis incommoda), Juvenal depicts the multicultural and multiracial Rome where, for a delicate mind like his, it was no longer possible to survive.
+
+> To see the scum of Greece transplanted here,Receiv’d like gods, is what I cannot bear.  
+> Nor Greeks alone, but Syrians here abound,  
+> Obscene Orontes diving under ground,  
+> Conveys his wealth to Tiber’s hungry shores,  
+> And fattens Italy with foreign whores.[^7]
+
+Juvenal also complains about Jewish migrants in his satires, which earned him the accusation of anti-Semitism by some contemporary critics.
+
+> Though now the sacred shades and founts are hir’d  
+> By banish’d Jews, who their whole wealth can lay  
+> In a small basket, on a wisp of hay;  
+> Yet such our avarice is, that every tree  
+> Pays for his head; not sleep itself is free:  
+> Nor place, nor persons now are sacred held,  
+> From their own grove the Muses are expell’d.[^8]
+
+Juvenal’s lines are written in dactylic hexameter, which means, basically, a use of rhythmic exchanges between short or long syllables, thus providing each of his satire with a dramatic and theatrical tone that was fashionable among the Ancients, including Homer’s epics. In the Latin hexameter, Dryden, in his translations, inserted the rhymed syllabic meter thus capturing more or less well the disillusioned sarcasm of the original Juvenal. One is tempted to call Juvenal the Louis Ferdinand Céline of antiquity. In his famous Sixth satire, on Women (Mulieres), Juvenal describes the proliferation of Oriental con men who came to Rome from afar and introduced into the ancient Roman mores the fashion of zoophilia and pedophilia and other vices. Juvenal’s language describing sexual perversions imported to Rome by Asian and African newcomers would even be an embarrassment for many Hollywood movie makers today. Here are some of his verses translated into sanitized English given that they were intended for the general public:
+
+> Thou may’st be Father to an Æthiop’s Son.  
+> A Boy, who ready gotten to thy hands,  
+> By Law is to Inherit all thy Lands:  
+> One of that hue, that shou’d he cross the way,  
+> His Omen wou’d discolour all the day.  
+> I pass the Foundling by, a Race unknown,  
+> At Doors expos’d, whom Matrons make their own[^9]
+
+The Romans used the word “Aethiopis”, i.e. “Ethiopians” when describing African Blacks.
+
+**To be continued.**
+
+[^1]: C.L. Montesquieu, Considerations on the causes of the grandeur and decadence of the Romans ( New York: D. Appleton and Co, 1882). In French, 1734.
+[^2]: T. Sunic, „Le bon truc; drogue et démocratie“, dans Chroniques des Temps Postmodernes ( Dublin, Paris: éd Avatar, 2014), pp 227-232. In English, „The Right Stuff; Drugs and Democracy“, in Postmortem Report; Cultural Examinations from Postmodernity ( London: Arktos, 2017), pp. 61-65.
+[^3]: Cf. T. Sunic, « L’art dans le IIIème Reich », Ecrits de Paris, July-August 2002, nr. 645, Also “Art in the Third Reich: 1933-45”, in Postmortem Report ( London: Artkos, 2017) pp. 95-110.
+[^4]: Arthur de Gobineau, Essai sur l’inégalité des races humaines, (Paris: Éditions Pierre Belfond, 1967), Livres 1 à 4, pp. 58-59. I am using here the original text in the French language translated into English.
+[^5]: Ibid, Livres 5 à 6., p. 164. <http://ia802900.us.archive.org/27/items/EssaiSurLinegaliteDesRacesHumaines/EssaiSurLinegaliteDesRacesHumaines.pdf>
+[^6]: Salluste, Ouvres de Salluste, Conjuration de Catilina – ( Paris: C.L. F. Pancoucke, 1838), pp 17-18. <http://ia802706.us.archive.org/5/items/uvresdesalluste00pancgoog/uvresdesalluste00pancgoog.pdf>
+[^7]: Satires de Juvénal et de Perse, Satire III, translated into French verses by M. J . Lacroix (Paris : Firmin Didot frères Libraries, 1846), p. 47. See a good translation of Juvenal into English by John Dryden (1631-1700). <https://rpo.library.utoronto.ca/poems/third-satire-juvenal>
+[^8]: Ibid. p.43
+[^9]: Ibid., p.165 (In French); in English [www.bartleby.com/204/217.html#note217.48](https://www.bartleby.com/204/217.html#note217.48) Also on the website: <http://remacle.org/bloodwolf/satire/juvenal/satire3b.htm>

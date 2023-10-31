@@ -1,0 +1,69 @@
+---
+title: "Réfléchir & Agir (été, 2011) Tom Sunic (en français) entretien avec Tomislav Sunic Homo americanus rejeton de l’ère post-moderne"
+date: 2012-10-08
+categories: 
+  - french-essays
+  - interviews
+authors: 
+  - tomsunic
+---
+
+R&A: Le grand dissident russe Alexandre Zinoviev, qui avait fui le communisme pour rejoindre le camp de la liberté dont les Etats-Unis étaient l’emblème, avait inventé le terme d’homo sovieticus. Vous parlez, vous, d’homo americanus. A priori, en quoi ces deux types d’hommes se ressemblent-ils ?
+
+TS: C’est l’état d’esprit tout d’abord. Il y a de braves homini sovietici en France du coté de Paris qui sont connus sous le nom de Gauche caviar. C’est le Même et son Double qui changent de lieux en fonction des idées à la mode. Aujourd’hui c’est l’utopie libérale qui mène la dance. D’où le fait que les anciens soixante-huitards français, les ex-communistes yougos, ou bien les scribes postsoviétiques n’ont eu aucun problème à se recycler subitement en de bons apôtres de l’américanisme. Les idées de la parousie communiste sont beaucoup plus réalisables en mimant l’esprit de l’homo americanus. Les ressemblances ? Eh bien, c’est la croyance dans le progrès, l’esprit égalitaire, le faux sentimentalisme, soit sous sa forme biblique, soit sous sa forme eschatologique visant le meilleur des mondes. Bref, tous les deux sont dépourvus du sens du tragique. C’est le signifiant qui nous trompe. Le fond du signifié, pourtant est toujours – le Même.
+
+R&A: Quels sont les piliers idéologiques de ces deux formes de régime ?
+
+TS: Toujours les mêmes quant à l’idéologie du Même : l’égalitarisme, le mondialisme et l’économisme. Non, il ne s’agit pas de la trahison des clercs par la Gauche occidentale et par les anciens apparatchiks soviétiques. Il y a bien longtemps qu’ils s’étaient rendus compte que les grands récits égalitaires et progressistes seraient beaucoup mieux véhiculés par l’Amérique et sa classe politico-médiatique. Le discours sur la fin d l’histoire, la grande « partouze » multiethnique et multiraciale, autrement portée aux nues par les bolcheviks, est cette fois-ci devenue la réalité opérationnelle en Amérique. Il faut préciser que j’utilise les termes américanisme ou homo americanus comme synonymes de libéralisme et d’homo economicus. Ceci dit, il y a des homini americani plus acharnés en Europe qu’en Amérique
+
+R&A: Ne trouvez-vous pas qu’il est un peu hardi de comparer la terreur d’état communiste et le totalitarisme américain ?
+
+TS: Absolument. Je préfère boire du coca que d’imaginer porter le casque soviétique sur ma tête. Entre Guantanamo et le Goulag, chacun son choix ! Mais quelles sont les conséquences pour la survie de l’esprit libre dans l’américanisme à longue durée ?- voilà la question. L’américanisme a réussi à neutraliser la sphère politique d’une manière plus efficace. Même la notion de dissidence, voire l’idée d’une rébellion quelconque, n’a aucun sens dans l’américanosphère. Le mal physique infligé dans les taules communistes et la vie spartiate de l’univers communiste – peu nombreux sont ceux qui tout en se targuant d’antiaméricanisme seraient prêts à renoncer aux délices de l’American way of life ! Moi compris. Mais regardons les choses à l’inverse. Peu nombreux furent ceux, dans l’univers communiste, qui voulurent échanger leur comportement d’homo sovieticus contre celui d’homo americanus sans se rassurer au préalable grâce à l’image-miroir d’une Amérique riche et opulente. Ce fut la comparaison avec son homologue américain dans l’imaginaire de l’homo sovieticus qui conduisit l’Union soviétique à la débâcle. Imaginez un monde effrayant où l’on perd la notion de comparaison. L’Amérique, étant aujourd’hui le seul hégémon au monde, et n’ayant pour l’instant aucun double, y a bel et bien réussi.
+
+R&A: La démocratie existe-t-elle en Amérique ?
+
+TS: Le terme « démocratie » est la plus grande blague lexicale du dernier millénaire ! Quand quelqu’un s’écrie « vive la démocratie » !, je me demande à qui cela sert-il, cui bono, qui a intérêt à se parer de ce vocable ? Vous pensez à Tocqueville ou bien à Evola qui nous on décrit la démocratie en Amérique ? Ou bien à Kim Il Sung qui fut un démocrate à part entière comme son homologue Bush et d‘autres figures politiques plus récentes ? Nos ancêtres gaulois, islandais, et même les Illyriens ou proto-Slaves de ma région furent démocrates — chacun à sa façon. Peut–être le furent-ils même plus que nous-mêmes ? En effet, de quelle démocratie parle- t- on aujourd’hui? Plébiscitaire ? Totalitaire ? Représentative ? Ça me dépasse. L’Amérique est un pays qu’on pourrait qualifier de ploutocratie oligarchique au sommet, mais avec une base qui repose encore sur un fonds populaire et démocratique.
+
+R&A: A mes yeux, il y a toutefois une énorme différence entre le communisme et l’américanisme: la liberté d’expression qui me parait totale en Amérique ?
+
+TS: Cela va sans dire. L’Amérique avec ses grands espaces me manque. La Constitution américaine, bien loin de la fameuse loi Fabius -Gayssot, vous donne le droit de porter les armes et d’arborer sur votre poitrine n’importe quel signe distinctif, que ce soit la croix gammée, l’étoile rouge ou un médaillon de la Vierge Marie. Mais attention. Il faut distinguer entre le corpus législatif et les contre-pouvoirs médiatique et académique qui utilisent parfois des méthodes beaucoup plus répressives qu’en Europe pour faire taire les critiques. C’est la notion de ridicule dont les faiseurs d’opinion se servent pour faire taire les trouble-fête. On a beau être démonisé comme facho-monstre, comme c’est le cas en France, on vous accordera néanmoins une certaine dose de crédibilité. En Amérique, en revanche, une fois que vous et votre travail deviennent la cible du ridicule médiatique, vous n’existez plus. La plupart des mouvances racialistes et nationalistes en Amérique ne sont pas considérées comme sérieuses du fait même de leur mimétisme avec le Double paléo-fasciste de provenance hollywoodienne ; de ce fait, ils ne peuvent inspirer aucune crédibilité. On peut parler de grotesque infrapolitique. Le système américain a besoin de ces farfelus nazis hollywoodiens afin de montrer au monde que l’Amérique est le pays de la plus grande tolérance. C’est faux. Les usines à penser, les universités et les grands media fonctionnent d’une manière crypto-soviétique et utilisant le jeu du ridicule pour discréditer l’adversaire. A quoi bon posséder la protection de la loi quand l’esprit libre n’arrive jamais à rien dire au plus grand monde ? Tous les groupuscules dissidents sérieux, tous les partis politiques dès qu’ils acquièrent une certaine visibilité, sont immédiatement mis sous surveillance. De puissants lobbies tels le SPLC et l’ADL usent de leur poids auprès des universités et des maisons d’édition pour discréditer chaque idée non conformiste. Prenez le cas de Pat Buchanan ou du professeur Kevin Mac Donald qui furent mis au pas, ce sont deux bons exemples du procédé.
+
+R&A: Existe-t-il des tabous au sein de la société américaine ?
+
+TS: Il y a des tabous que les Américains ont eux- mêmes créés et qui sont typiques de l’autocensure paléo-puritaine. Mais il y a des tabous imposés par le système libéral, tels que la religion civique de l’Holocauste et le dogme de l’infaillibilité du système multiracial. Certes, par rapport à l’Europe, on peut parler ouvertement et d’une manière critique de n’importe quoi, mais en général, on ne peut s’exprimer que dans des groupes marginaux qui ont peu d’impact sur les idées dominantes.
+
+R&A: Reconnaît-on l’existence des races aux Etats-Unis ou les nie-t-on comme en Europe ?
+
+TS: A notre époque du politiquement correct, la notion de race ne peut avoir droit de cité. On trouve l’explication de cette éclipse dans les années d’après la Deuxième guerre mondiale, quand s’est instauré le nouvel ordre mondial. À titre privé, nous tous, de droite ou de gauche, et de n’importe quelle race, savons fort bien que les races existent bel et bien. Au niveau juridique, on fait semblant, en Europe et en Amérique, de considérer que les races sont uniquement une question exotique de peau différente et rien d’autre. Or dites- moi combien de Prix Nobel en sciences sont-ils décrochés chaque année par des Blancs et combien par des Nègres ? A l’heure actuelle et malgré l’idéologie du métissage qui règne en Occident, les Américains blancs ont une conscience raciale plus prononcée que les Européens blancs. C’est ce que mon collègue, le sociobiologiste Kevin Macdonald appelle « implicit whiteness ». N’oublions pas que les mythes fondateurs américains trouvèrent une base solide dans la pensée racialiste. Les penseurs des Lumières étaient à des années lumière de la pensée dominante supraracialiste qu’on prend aujourd’hui pour argent comptant.
+
+R&A: Comment définiriez-vous l’américanisme ?
+
+TS: Il y a eu un glissement sémantique avec ce vocable. En Europe, on utilise souvent ce terme et dans un sens nettement péjoratif. L’Américanisme signifie aujourd’hui un système-monde gouverné par le capital de façon métastatique. En ce qui concerne la fameuse Amérique profonde, notamment l’antebellum South qui persiste encore dans quelques contrées et que j’aime bien — c’est autre chose et cela n’a rien à voir avec l’américanisme d’aujourd’hui . Je renvoie vos lecteurs à Maurice Bardèche et à son beau livre Sparte et les Sudistes.
+
+R&A: Quelles sont les origines du politiquement correct ?
+
+TS: Les origines du politiquement correct sont à chercher dans les événements qui ont accompagné les purges d’intellectuels au lendemain de la Deuxième Guerre mondiale, en France et en Allemagne. J’ai rédigé un long article sur la genèse du langage politiquement correct dans la revue Catholica. En Amérique, le politiquement correct trouve ses origines dans le mélange de la pensée vétérotestamentaire et de la pensée marxiste.
+
+R&A: Quelles sont les sources du fondamentalisme américain ?
+
+TS: La Bible. Où que l’on tourne les yeux en Amérique, à droite et à gauche, on s’aperçoit de l’hypermoralisme du langage. Et cet hypermoralimse provient directement de la Bible. La Bible donne une parfaite bonne conscience, même dans ses modalités séculières, aux élites américaines, surtout lorsqu’ elles se lancent dans des guerres incessantes contre la notion de Mal. Autrefois, ce Mal absolu fut incarné par le Sud ; ensuite ce fut le tour des Allemands et ensuite vinrent les communistes. Aujourd’hui, le Mal absolu est incarné par les Islamistes. L’Amérique est par excellence un pays dont la théologie politique est centrée sur la Bible.
+
+R&A: En quoi les Juifs peuvent apparaître comme des facteurs dissolvants de l’Amérique traditionnelle ?
+
+TS: On peut poser la même question concernant l’Europe. Il y a une tonne de livres qui vous expliquent ce malaise et notamment les ouvrages académiques de Kevin Macdonald qui rencontrent un grand écho chez les racialistes blancs aux Etats-Unis. Toujours le Même qui veut être le Double, à savoir le Goy qui se veut plus juif que les Juifs eux-mêmes. Le problème ne réside pas dans les Juifs mais bien dans le mimétisme monothéiste qui par le biais de l’avatar chrétien se manifeste chez tous les Européens. Ce sont les Chrétiens sionistes en Amérique (ou ici l’Europe catholique traditionnelle) qui n’arrivent pas à se débarrasser de cette névrose philosémite et de son Double antisémite. De nouveaux chaos nous attendent.
+
+R&A: Vous parlez de l’Ecole de Francfort. Pourriez-vous nous rappeler qui sont ses promoteurs et leurs idées fondamentales ? Diriez-vous comme votre préfacier Kevin MacDonald qu’ils ont mis au point un programme de guerre ethnique ?
+
+TS: Afin de comprendre les idées qui gouvernent le monde, et tracer la pathogenèse du politiquement correct, if faut absolument étudier à fond la pensée de la fameuse Ecole de Francfort. C’est là que réside le problème fondamental de notre époque. L’Ecole de Francfort et ses émules, comme les philosophes marxisants Horkheimer, Adorno, Marcuse, ont complètement détruit par leurs écrits la notion de sacré chez les jeunes Européens et par-dessus tout imposé par le biais des victimologies surréelles un sentiment de culpabilité pathologique chez tous les peuples blancs.
+
+R&A: Peut-on considérer que les oligarchies qui dirigent le monde ont fait des Etats-Unis un vaste laboratoire de leurs théories et idées comme préalable à la future société mondiale universalisée ?
+
+TS: Les premières esquisses de ce monde universalisé nous furent déjà tracées par les théologiens chrétiens avec leur civitas dei. Donc rien de nouveau sous le soleil. Sauf que dans le monde des satellites et des ordinateurs, ce monde se rétrécit ; le sens de l’espace perd son sens. La bonne nouvelle, et j’espère que je ne me trompe pas, c’est que nous sommes déjà entrés dans l’implosion générale. Sauve qui peut !
+
+R&A: L’Amérique n’est –elle pas en train de donner naissance au dernier homme dont parlait Nietzsche ?
+
+TS: Tout à fait. Sauf que l’homo americanus n’est pas propre à la seule Amérique. C’est une figure transpolitique mondiale qui réside partout et surtout en Europe.
+
+Tomislav (Tom) Sunic (<http://TomSunic.com/>) est écrivain, traducteur, ancien professeur de sciences politiques aux États-Unis, et ancien diplomate croate. Il est le conseiller culturel de l’ American Third Party Position (American3P.org/leadership). Il a publié de nombreux articles en anglais, français, allemand et croate dans diverses publications. Il est auteur de Against Democracy and Equality: The European New Right (Arktos, 1990, 2002, 2011), préfacé par Alain de Benoist et Homo americanus: Child of the Postmodern Age (BookSurge, 2007), préfacé par Kevin MacDonald. Ses livres en français, récemment parus, sont La Croatie; un pays par défaut ? (éd. Avatar 2010) et Homo americanus ; rejeton de l’ère postmoderne (éd. Akribea, 2010).
+
+Source: Réfléchir & Agir.

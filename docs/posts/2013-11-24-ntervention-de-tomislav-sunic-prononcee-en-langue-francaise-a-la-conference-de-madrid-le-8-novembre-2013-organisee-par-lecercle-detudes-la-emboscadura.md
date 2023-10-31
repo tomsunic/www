@@ -1,0 +1,105 @@
+---
+title: "Après la chute et la renaissance du tragique"
+date: 2013-11-24
+categories: 
+  - french-essays
+  - interviews
+authors: 
+  - tomsunic
+---
+
+20 novembre, 2013 | POLÉMIA
+
+source: [Polemia 20 novembre, 2013 | POLÉMIA](http://www.polemia.com/apres-la-chute-et-la-renaissance-du-tragique/#!prettyPhoto/0/)
+
+Intervention de Tomislav Sunic prononcée en langue française à la conférence de Madrid, le 8 novembre 2013, organisée par le Cercle d’Etudes La Emboscadura.
+
+Tomislav Sunic, de nationalité croate, ancien diplomate, ancien professeur de science politique, écrivain et historien, auteur de nombreux ouvrages et articles dont certains ont été présentés par Polémia, livre ses réflexions sur le destin du monde. Contrairement à certains penseurs et auteurs européens, il voit dans le futur un éternel recommencement où l’homme devra poursuivre sa lutte prométhéenne, marquée par le désir de l’exploit, le goût du dépassement et la foi dans la grandeur humaine.
+
+Polémia
+
+Nous pouvons remplacer le substantif « la chute » par d’autres expressions qui possèdent des significations plus chargées, telles que « la fin des temps », la « décadence » ou le « chaos» – ou bien « la fin d’un monde», faute de dire « la fin du monde ». Ces mots et ces expressions me viennent à l’esprit, suivis par de nombreuses images liées à nos identités actuelles ou futures.
+
+J’espère que personne ici ne prétend être un futurologue. Avec le recul, la plupart des futurologues ont été démentis dans leurs pronostics. Rappelons le récent effondrement de l’Union soviétique, phénomène que pas un seul soviétologue américain ou européen n’a pu prévoir.
+
+Ma thèse principale est que les prophéties concernant la chute ne sont aucunement nouvelles. Depuis des temps immémoriaux, nous avons été témoins des histoires, des contes et des mythes qui présageaient le déclin ou la fin des temps. La grande majorité des penseurs et des auteurs européens, de l’Antiquité à la postmodernité, ont abordé dans leurs écrits la notion de la fin des temps et ses conséquences.
+
+## L’illusion du progrès
+
+Du côté opposé, nous avons l’optimisme historique et la croyance au progrès. Le progrès est devenu aujourd’hui une religion laïque. Heureusement, il semble montrer des fissures, étant soumis de plus en plus à de nombreuses critiques. La croyance au progrès et ses adeptes ont eu un gros impact au cours de ces derniers 200 ans – et plus particulièrement au cours de ces derniers 70 ans. Les apôtres modernes du progrès portent généralement divers déguisements, soit le costume libéral, soit le costume communiste, et même parfois l’habit chrétien. Un peu péjorativement, on peut appeler ces gens les architectes du meilleur des mondes.
+
+En revanche, ceux parmi nous qui rejettent la religion du progrès et l’optimisme historique peuvent être partagés en deux catégories : les penseurs du tragique et les pessimistes culturels. Les penseurs du tragique croient à la nature cyclique des temps et de l’identité ; ils disent qu’après chaque jour ensoleillé doit venir un jour de pluie. Je me range parmi ceux-ci.
+
+Voici une citation du philosophe Clément Rosset, qui est proche de notre patrimoine intellectuel, étant lui-même le ferme adversaire de l’optimisme historique tout en étant un bon avocat du tragique :
+
+« Il en résulte que toute pensée non tragique est nécessairement pensée intolérante ; que, plus elle s’éloigne des perspectives tragiques, plus elle s’incline vers telle ou telle forme d’ “optimisme”, plus elle se fait cruelle et oppressive » (Logique du pire, p. 155). \* Voici ma première remarque : les optimistes historiques, tels que les communistes, les libéraux, et tous ceux qui aspirent à l’amélioration du monde ont une manie invétérée d’imposer à notre société des constructions sociales, ou des contrats sociaux, qui, en règle générale, aboutissent toujours à des cauchemars politiques.
+
+En décrivant « la chute », nous ne pouvons pas faire abstraction des images, des symboles et des mythes liés à la fin du temps. Les images de la chute étaient beaucoup plus fortes chez nos ancêtres qu’elles ne le sont parmi nous aujourd’hui. Il n’est point besoin de chercher loin pour trouver des exemples. Nous n’avons qu’à lire les mythes grecs et les épopées homériques qui regorgent de violence, de luttes titanesques, de chaos, de différents âges et de différentes identités. L’histoire de la célèbre saga germanique, les Nibelungen – dont le message sous-tend inconsciemment l’identité de la plupart des Européens – se termine dans le chaos et le massacre mutuel au sein de la même tribu. Indépendamment de leur héritage racial commun, nos ancêtres européens furent bien conscients de la fragilité de toute identité, y compris de la leur. Après tout, le personnage principal de la saga des Nibelungen, la reine Kriemihilde, cherchant à venger son mari, le héros Siegfried, tué par le héros Hagen, épouse en secondes noces le Hun, l’empereur asiatique Attila. Ils eurent un fils qui était un « Mischling » – un hybride racial, peut-on dire – dont la tête fut finalement coupée par Hagen.
+
+En ce qui concerne la perception de la fin des temps, je voudrais commencer par deux courtes citations de deux auteurs modernes qui font également partie de notre patrimoine intellectuel. Tous les deux étaient très conscients de la fin des temps. Le premier est un homme possédant un sens profond du tragique, et le second un pessimiste historique. Bien que souvent floue, la différence entre le sens du tragique et le pessimisme historique est tout à fait significative.
+
+Voici notre premier penseur du tragique : Ernst Jünger, dans son livre An der Zeitmauer (Au mur du temps) :
+
+« Le destin peut être anticipé, il peut être ressenti, il peut être redoutable, mais il ne doit jamais être connu. Si cela devait se produire, l’homme vivrait une vie d’un prisonnier qui connaît l’heure de son exécution » (p.25). \* Ma deuxième remarque : les penseurs tragiques excluent toute relation de cause à effet. Le bon côté du tragique consiste en la croyance aux événements aléatoires et en la croyance au « hasard ». Le penseur tragique n’est jamais tenté de prédire l’avenir. Pourquoi devrions-nous escalader le mur du temps et tenter d’enrayer la chute du temps au-delà du mur du temps ? Ce serait un devoir pénible, car nous y rencontrerions probablement des images effrayantes. Les optimistes historiques, qu’ils soient libéraux ou communistes, avec leur mentalité rationaliste, souhaitent installer exactement un tel schéma prévisible du progrès humain. Nous avons vu les résultats au cours de ces derniers soixante-dix ans !
+
+Contrairement à la personne du tragique, Emile Cioran, en tant que pessimiste historique, ne se soucie guère de son identité à venir. Il a renoncé à toutes sortes de tentatives prométhéennes. Il s’est lui-même extrait, il y a bien longtemps, du temps et en est venu à la conclusion qu’il n’y a aucune raison pour la reprise de n’importe quelle identité. Je ne pense pas que nous devions accepter ce modèle, bien que la plupart d’entre nous, ici, y soient souvent enclins.
+
+« Les autres tombent dans le temps ; je suis, moi, tombé du temps. A l’éternité qui s’érigeait au-dessus de lui succède cette autre qui se place au-dessus, zone stérile où l’on n’éprouve plus qu’un seul désir : réintégrer le temps, s’y élever coûte que coûte, s’en approprier une parcelle pour s’y installer, pour se donner l’illusion d’un chez soi. Mais le temps est clos, mais le temps est hors d’atteinte ; et c’est de l’impossibilité d’y pénétrer qu’est faite cette éternité négative, cette mauvaise éternité » (La Chute dans le Temps, p. 1152). L’Europe: Le mur du temps vis-à-vis du mur de fer
+
+Sur la base de ces citations, nous allons examiner maintenant quelques illusions politiques contemporaines sur la chute dans le temps et sur notre identité, illusions que nous pourrions tout aussi bien qualifier d’autotromperie. Ces illusions peuvent nous aider à acquérir une meilleure perception de notre nouvelle identité. Regardons vers l’arrière, au-delà de notre actuel mur du temps.
+
+En mai 1945, les Américains faisaient une grande la fête sur Broadway, à New York. La Seconde Guerre mondiale venait de prendre fin, et, depuis lors, l’image de cette guerre a été considérée comme le symbole ultime du mal absolu. Nous vivons encore ce scénario de la fin des temps fascistes et antifascistes.
+
+Or, de l’autre côté du mur, en même temps, ou, si l’on peut s’exprimer d’une façon moins allégorique, de l’autre côté de l’Atlantique, le Rideau de fer s’éleva. A la mi-mai 1945, des millions de personnes d’Europe centrale et d’Europe orientale ont connu la chute de leurs temps et également la perte de leur identité. Pour beaucoup d’Européens, cette année marqua la fin des temps européens, « le Ragnarök ». Le mot allemand « Zusammenbruch », était à cette époque très en usage parmi les millions de réfugiés : des millions d’Allemands, de Hongrois, d’Italiens, de Croates, Serbes, Ukrainiens, des soldats et des civils, allaient bientôt être livrés à la fin du temps communiste ou, si l’on peut s’exprimer moins allégoriquement, à la mort certaine. Le temps de la fin avait touché non seulement leurs dirigeants vaincus, mais également des millions d’individus anonymes dont le flux du temps défia tous les instruments.
+
+## La race de l’esprit comme nouvelle identité
+
+Lorsqu’on s’interroge sur notre prétendue identité après la chute, y compris le bagage héréditaire qui nous lie à nos confrères blancs à travers le monde, nous devons convenir que l’identité ne peut pas être uniquement ancrée dans notre race. Il y a aussi une autre dimension qui doit être prise en compte : notre sens du tragique et notre mémoire historique.
+
+\* Ma troisième remarque. L’Identité, lorsqu’elle repose seulement sur l’hérédité, a peu de sens si elle manque de « Gestalt » – si elle refuse de s’assigner un nom, un prénom et un lieu d’origine. Une abstraite identité blanche, dépourvue d’ « âme raciale», n’a pas de sens. Nous portons tous des noms et nous traînons tous notre mémoire tribale et culturelle.
+
+Ma propre identité, par exemple, ainsi que l’identité de plusieurs de mes et de nos collègues en Allemagne ou en France, ou ailleurs en Europe, est fortement ancrée dans notre mémoire historique. Par exemple, depuis l’âge de cinq ans j’ai été exposé à de longues histoires racontées par mon défunt père sur les massacres communistes qui ont eu lieu à l’été 1945 en Europe centrale et orientale. Ces histoires, à leur tour, ont affecté ma perception de moi-même, ainsi que ma perception de la réalité qui m’entoure.
+
+\* Ma quatrième remarque : je tiens à souligner que la victimologie joue un rôle formidable dans la formation des identités de beaucoup de peuples dans le monde entier, y compris de nous-mêmes. Le cas de la victimologie juive, qui est également devenue aujourd’hui une partie de l’identité du monde entier, nous fournit le meilleur exemple et en dit long.
+
+Face à notre approche de la fin des temps, nous avons souvent recours aux identités « négatives ». Des mots tels que « immigration » et « islam» viennent à l’esprit lorsque nous avons recours à ces référents d’identités négatives. Ces mots et notions nous fournissent la preuve d’un changement de paradigme. Par exemple, il y a trente ans, les mots « immigration » et « islam » étaient peu utilisés et n’étaient pas considérés comme un facteur majeur dans les analyses de la chute anticipée. Il y a trente ans, notre identité négative était fondée sur l’anticommunisme, le communisme représentant alors le symbole de la chute et le symbole de la fin des temps.
+
+Or, le communisme, avec son contraire, l’anticommunisme, en tant que facteur de la construction de notre identité négative, est maintenant périmé : il semble avoir disparu de notre vocabulaire, de notre imagination et de notre processus de construction de l’identité négative. A sa place s’installent maintenant les étrangers, les non-Européens, le métissage, la prétendue menace de l’islam et la disparition de l’Etat-Nation dans le système mondial capitaliste.
+
+Il y a cependant de sérieux problèmes avec l’utilisation et l’abus de ces nouvelles notions. Ainsi, le mot « islam », qui est devenu un mot inspirant la crainte à beaucoup d’entre nous, peut désigner à la fois tout et rien. L’islam n’est pas le synonyme d’une identité distincte ou d’une race distincte : c’est une religion universaliste, tout comme la religion universaliste chrétienne. Nous pourrions passer des heures à débattre maintenant et à nous quereller au sujet du christianisme et du patrimoine des Blancs européens. Nous oublions souvent que le christianisme, tout comme l’islam, a ses origines dans les déserts du Moyen-Orient – et non en Europe. Il y a maintenant davantage de chrétiens vivant en dehors de l’Europe qu’en Europe elle-même.
+
+---
+
+\* Ma première conclusion : Sur le plan purement méthodologique, nous devons éviter d’utiliser une approche individualisée et chercher plutôt à comprendre la chute et la notion d’identité du point de vue économique, social, philosophique, racial, religieux et démographique. En nous attardant seulement sur la question de l’hérédité ou de la race, ou sur la question de l’immigration, tout en oubliant les autres aspects qui façonnent notre identité, nous courons le risque de tomber dans un piège réductionniste et arbitraire.
+
+Evitons d’être des pessimistes culturels et essayons plutôt d’aiguiser notre sens du tragique. Contrairement au pessimisme culturel, le sens du tragique sous-entend l’accident, le hasard, pour lesquels les Allemands ont un très joli mot : « der Zufall ». Les Français ont un meilleur mot : « le hasard ». Chaque accident, chaque hasard, chaque Zufall inattendu, signifie que le temps reste ouvert. Dans notre quête de notre nouvelle identité, l’histoire nous reste toujours ouverte. Par conséquent, l’écoulement du temps nous offre à tous de nouvelles pistes inattendues vers la liberté. Nous devons juste saisir la bonne occasion.
+
+Il n’est pas étonnant qu’au niveau de notre subconscient nous nous sentions tous attirés d’abord vers notre groupe, vers notre tribu, comme le note notre ami Kevin MacDonald – surtout en cas d’urgence, ou en cas de hasard. Quand nous voyageons en Afrique ou en Asie, et quand nous descendons dans un hôtel, nous cherchons instinctivement un contact oculaire avec un Blanc d’Europe ou d’Amérique. Ici à Madrid, nous n’avons aucun intérêt à savoir si la personne qui nous croise est un Espagnol. Mais les temps changent rapidement : il y a des endroits, à Los Angeles, ou dans le monde souterrain du métro parisien, où le passager blanc, tard dans la nuit, est heureux de repérer une personne de son phénotype. Leur contact oculaire en dit long sur leur identité commune soudainement récupérée.
+
+Cependant, comme mentionné précédemment dans notre bref regard sur le carnage qui eut lieu au sein de la même tribu dans la dernière aventure des Niebelungen, il y a des questions critiques que nous devons poser quant à notre identité commune. Il y a d’innombrables exemples historiques où l’identité commune mène à la haine et à la guerre civile au sein de la même tribu, du même groupe. Les guerres civiles entre et parmi les Européens et les Américains ont été, de loin, beaucoup plus meurtrières que les guerres qu’ils ont menées contre l’Autre.
+
+A titre hypothétique, si les Européens blancs et les Américains blancs avaient les moyens d’établir leur propre ethno-Etat, avec leur propre identité commune et raciale, qui peut nous garantir que cet ethno-Etat entièrement blanc ne serait pas à nouveau en proie à des divisions internes et à des guerres civiles ?
+
+La bataille d’Alamo, en 1836, porte toujours un message vif pour nous tous ici. La douzaine de défenseurs irlandais qui ont perdu la vie en défendant Alamo contre le siège de Santa Anna jouèrent un rôle crucial dans la prolongation et la capture mexicaine d’Alamo. Pourtant, nous devons aussi nous rappeler que, dix ans plus tard, plusieurs centaines d’Irlandais – le célèbre Bataillon « Saint-Patrick » – furent, avec d’autres immigrés européens catholiques, les loyaux combattants du côté mexicain, au cours de la guerre américano-mexicaine. Lorsque la guerre prit fin, des dizaines d’Irlandais furent pendus comme criminels de droit commun par les troupes américaines victorieuses.
+
+Jusqu’à une époque récente, l’idée d’une identité européenne blanche n’existait pas. Par exemple, l’attaque turque sur l’Europe, au XVIe et au XVIIe siècle, ne fut pas motivée par une question de race : elle avait des racines religieuses. Beaucoup de clans serbes, croates et hongrois chrétiens et leurs chefs s’alliaient parfois aux envahisseurs turcs pour différentes raisons politiques. De même, mille ans plus tôt, de nombreuses tribus germaniques se sont alliées aux Huns d’Attila et se sont battues contre leurs propres frères dans les Champs Catalauniques, en 451 après JC.
+
+Il y a d’innombrables exemples historiques où le système de croyance ou la politique de puissance ont joué un rôle beaucoup plus important dans le processus de la construction d’identité que la question de la race.
+
+Un autre exemple : la Seconde Guerre mondiale fut aussi une guerre civile européenne entre les puissances et les peuples du même fond génétique mais appartenant à différents systèmes de croyance. Les principaux acteurs politiques utilisaient souvent des non-Européens comme troupes auxiliaires. Dans la Wehrmacht, il y avait de petites unités composées d’Arabes, d’Indiens et de tribus turques luttant contre les Américains blancs et les troupes soviétiques blanches. Les GIs américains, après leur débarquement en Normandie en 1944 et en Italie en 1943, prirent souvent certains soldats capturés sous l’uniforme allemand pour des Japonais, ignorant le fait que ces soldats combattant du côté de l’Axe étaient des volontaires venus des régions de l’Union soviétique occupées par les Allemands.
+
+\* Ma conclusion finale : Il n’y a pas de doute que le facteur héréditaire joue un rôle de premier plan dans notre identité. Très souvent, nous n’en sommes pas conscients. Nous pouvons changer notre physionomie, nous pouvons changer notre passeport, nous pouvons changer notre idéologie ou notre théologie. Nous pouvons également effacer notre mémoire culturelle en quittant notre patrie et en nous installant dans un pays lointain. Cependant, il n’y a strictement aucun moyen d’enlever les couches de gènes transmis par nos ancêtres. Mais nous ne pouvons pas non plus effacer les couches de notre mémoire.
+
+Notre avant-guerre civile : la pathologie de la culpabilité blanche
+
+Je tiens à préciser : même dans le meilleur des cas, il est douteux que l’on puisse facilement créer notre identité dans un ethno-Etat totalement blanc. Cette question troublante est heureusement abordée de plus en plus par nous tous. Pour ma part, je suis beaucoup plus préoccupé par le caractère de nombreux nationalistes blancs. Beaucoup de ces personnes s’imaginent qu’elles peuvent construire leur identité sur la base de leur physique blanc. Ironiquement, même nos pires détracteurs sont souvent des personnes de notre propre patrimoine génétique. Par exemple, si vous regardez brièvement le profil racial ou ethnique des gens qui font des manifestations de masse – les soi-disant antifascistes – en faveur des immigrés non européens, vous serez surpris de constater que la plupart d’entre eux sont des Blancs urbains. Peu d’immigrés non européens participent à ce genre de manifestations de masse.
+
+Le clergé catholique européen constitue également un cas à part. La plupart des dénominations chrétiennes sont devenues aujourd’hui les plus ardents défenseurs de l’immigration non blanche. Pourquoi l’Eglise a-t-elle choisi cette voie ? La genèse de la pathologie de la culpabilité blanche, ainsi que l’esprit destructif du monothéisme chrétien nécessiteraient de ma part une conférence distincte.
+
+Lorsque la chute finale arrivera, et cela ne peut pas être exclu pour l’Europe et l’Amérique, les lignes de démarcation entre l’ennemi et l’ami ne seront pas claires du tout. Il n’y aura aucun affrontement pittoresque entre Blancs et non-Blancs. Il faut être prêt à faire face à de nombreuses personnes de notre propre fond génétique qui seront de l’autre côté de la barricade.
+
+Dans ma conclusion finale, je tiens à dire que nous devons éviter les personnes qui tiennent leur identité blanche pour un hobby … un passe-temps … une vogue … ou pour un moyen de faire de l’argent. Ces personnes nous rendent ridicules et nous discréditent en nous faisant passer pour une menace publique. Notre premier objectif doit être non seulement la résurrection de notre sentiment racial, mais aussi, comme chez nos ancêtres, de notre sens du tragique. C’est l’unique voie que nous devons prendre afin de continuer notre lutte prométhéenne, et cela quel que soit le nombre d’entre nous qui resteront sur le champ de bataille.
+
+Je vous remercie de votre attention.
+
+Tomislav Sunic Ecrivain 8/11/2013

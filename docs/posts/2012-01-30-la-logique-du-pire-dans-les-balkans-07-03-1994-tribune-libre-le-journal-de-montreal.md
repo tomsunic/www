@@ -1,0 +1,24 @@
+---
+title: "La logique du pire dans les Balkans ( 07.03.1994 ~ Tribune Libre Le Journal de Montréal )"
+date: 2012-01-30
+categories: 
+  - ex-yugoslavia-newspaper-articles-letters-editorials-in-english-german-and-french
+  - french-essays
+  - history
+  - newspaper-articles
+  - politics
+  - sociology
+tags: 
+  - french-language-articles
+  - journal-articles
+  - newspaper-articles
+authors: 
+  - tomsunic
+---
+
+L’interminable guerre en Bosnie-Herzégovine et dans les régions de Croatie occupées par les Serbes voit actuellement se multiplier des souffrances affreuses. En même temps, la situation devient de plus en plus confuse, voire totalement incompréhensible, pour les observateurs extérieurs. Trois ans après l’éclatement violent de l’état hybride yougoslave, les organisations internationales ne semblent être d’accord ni sure les causes du conflit, ni sur les motifs de l’agresseur, ni sur les intérêts des victimes. Le formalisme juridique de l’ONU et les volte-face des médiateurs ajoutent encore à cette obscurité. Finalement, l’idée se répand que « toutes les parties sont responsables » du conflit, qu’il s’agisse des victimes ou de leurs agresseurs. On serait tenté de citer le juriste allemand Carl Schmitt, ou les travaux de Régis Debray pour comprendre pourquoi l’indécision de la classe politique européenne n’a pas contribué à la résolution rapide du conflit. Cette interprétation pessimiste du conflit nécessite au moins de mettre quelques détails en perspective, surtout après la récente déclaration de Genève sur une éventuelle reconnaissance mutuelle entre la Serbie et la Croatie. D’un côté, maints médiateurs internationaux, ainsi que quelques journalistes mal informés, exigent que le président croate Franjo Tudjman se livre à d’interminables tête à tête avec son homologue serbe, Slobodan Milosevic. De l’autre, maints politiciens et journalistes soupçonnent en même temps Tudjman d’utiliser ses rencontres avec Milosevic pour « comploter » secrètement contre les musulmans bosniaques. Le partage de la Bosnie-Herzégovine entre la Serbie et la Croatie n’a jamais été dans les intérêts géopolitiques de la Croatie. Si la Croatie avait voulu le dépeçage de la Bosnie-Herzégovine, elle n’aurait jamais été le premier pays dans le monde à avoir reconnu la souveraineté de ce pays. De plus, l’annexion des régions de la Herzégovine peuplées par une majorité de Croates n’aurait pas manqué de légitimer du même coup les appétits serbes dans les régions occupées de Croatie. C’est donc à l’ONU et à la CEE de définir leur rôle et de préciser aussi vite que possible les structures étatiques de la Bosnie-Herzégovine future. Or, l’ironie macabre de ce conflit veut que jusqu'à présent, chaque nouvelle résolution prise par l’ONU du point de vue du droit international ait annulé la précédente. Sur le terrain, les premières victimes de la guerre en Bosnie-Herzégovine, à savoir les musulmans bosniaques, cherchent aujourd’hui un ersatz de territoire pour compenser celui qui a été conquis par les envahisseurs serbes. Vu que la communauté internationale à peu fait pour endiguer l’agression serbe, les musulmans se retournent donc logiquement contre leurs anciens alliés croates. Il leur est en effet beaucoup plus facile de combattre les faibles positions croates en Bosnie centrale, que de recapture leurs positions conquises par les Serbes. Ceux qui doivent en payer les frais sont encore une fois les Croates bosniaques qui ont déjà perdu au cours de la dernière année 40% de leur territoire au profit des milices musulmanes. Les massacres de civils croates qui furent perpétrés par les milices musulmanes dans les villages croates Doljani, Krizancevo, Maljine et Uzdol, échappent curieusement à l’œil des divers medias étrangers. Pour saisir le caractère surréel de la situation en Bosnie-Herzégovine, on pourrait faire remarquer que la Croatie se charge actuellement de plus de 150 000 réfugiés musulmans bosniaques, lointains cousins de ceux qui combattent les Croates bosniaques ! Faut-il par ailleurs rappeler que la Croatie doit également s’occuper d’un demi-million de réfugiés croates chassées de leur foyer par les agresseurs serbes ? Que peut donc faire la Croatie à elle seule ? Depuis trois ans, le président Franjo Tudjman ne cesse de répéter que la guerre en Croatie et en Bosnie-Herzégovine doit être résolue par les moyes pacifiques et avec l’aide de l’ONU et de la CEE. En raison de volonté de coopération, la Croatie n’a pas manqué d’être l’objet de critiques diverses. Stigmatisée autrefois comme pays « fascinant », elle risque aujourd’hui d’être cataloguée comme pais « antimusulmans ». A-t-elle donc misé sur le mauvais cheval quand elle a confié ses aspirations démocratiques à l’Occident ?
+
+Tomislav Sunic  
+Ministère des Affaires étrangères  
+Département de la Culture  
+Zagreb, Croatie
