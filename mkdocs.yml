@@ -30,5 +30,6 @@ plugins:
   - social
   - blog:
       blog_dir: .
+      post_url_date_format: yyyy/MM
   - tags:
       tags_file: tags.md
