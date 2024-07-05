@@ -2,7 +2,7 @@ site_name: Tom Sunic
 site_description: Home page of Tomislav (Tom) Sunic.
 site_author: Tomislav Sunić
 site_url: https://www.tomsunic.com/
-copyright: © 2011-2023 Tomislav Sunić. Hosted on <a href="https://github.com/">GitHub</a>. Deployed using a <a href="https://group.miletic.net/en/blog/2022-11-01-publishing-material-for-mkdocs-website-to-github-pages-using-custom-actions-workflow/">custom third-party script</a>.
+copyright: © 2011-2024 Tomislav Sunić. Hosted on <a href="https://github.com/">GitHub</a>. Deployed using a <a href="https://group.miletic.net/en/blog/2022-11-01-publishing-material-for-mkdocs-website-to-github-pages-using-custom-actions-workflow/">custom third-party script</a>.
 
 theme:
   name: material
