@@ -13,19 +13,19 @@ Croatie dans l'UE : "Je crains que l'Europe ne devienne une nouvelle Yougoslavie
 
 Pour l'essayiste croate Tomislav Sunic, qui regrette l'adhésion de son pays, l'Union européenne a sacrifié la politique sur l'autel de l'économie.
 
-![Tomislav Sunic rappelle que seule une petite minorité de Croates a ratifié l'entrée du pays dans l'Union européenne, en 2012.](../assets/images/par-1654093-jpg_1538971.JPG)
+<!-- ![Tomislav Sunic rappelle que seule une petite minorité de Croates a ratifié l'entrée du pays dans l'Union européenne, en 2012.](../assets/images/par-1654093-jpg_1538971.JPG) -->
 
 Tomislav Sunic rappelle que seule une petite minorité de Croates a ratifié l'entrée du pays dans l'Union européenne, en 2012.© DIMITAR DILKOFF / AFP
 
-[![favori](../assets/images/b-favori.png)](http://www.lepoint.fr/auth/archivageArticle.php?id_sans_version=1687952&titre=Croatie%20dans%20l%27UE%20:%20%22Je%20crains%20que%20l%27Europe%20ne%20devienne%20une%20nouvelle%20Yougoslavie%22&chapeau=%3cp%3ePour%20l%27essayiste%20croate%20Tomislav%20Sunic%2c%20qui%20regrette%20l%27adh%C3%A9sion%20de%20son%20pays%2c%20l%27Union%20europ%C3%A9enne%20a%20sacrifi%C3%A9%20la%20politique%20sur%20l%27autel%20de%20l%27%C3%A9conomie.%20%20%3c/p%3e&date=2013-07-01%2020:37:00&image=/images/2013/07/01/par-1654093-jpg_1538971_113x76.JPG&auteur=Propos%20recueillis%20par%20%20%20%20Jason%20Wiels)
+<!-- [![favori](../assets/images/b-favori.png)](http://www.lepoint.fr/auth/archivageArticle.php?id_sans_version=1687952&titre=Croatie%20dans%20l%27UE%20:%20%22Je%20crains%20que%20l%27Europe%20ne%20devienne%20une%20nouvelle%20Yougoslavie%22&chapeau=%3cp%3ePour%20l%27essayiste%20croate%20Tomislav%20Sunic%2c%20qui%20regrette%20l%27adh%C3%A9sion%20de%20son%20pays%2c%20l%27Union%20europ%C3%A9enne%20a%20sacrifi%C3%A9%20la%20politique%20sur%20l%27autel%20de%20l%27%C3%A9conomie.%20%20%3c/p%3e&date=2013-07-01%2020:37:00&image=/images/2013/07/01/par-1654093-jpg_1538971_113x76.JPG&auteur=Propos%20recueillis%20par%20%20%20%20Jason%20Wiels) -->
 
-![imprimer](../assets/images/b-imprimer.png)
+<!-- ![imprimer](../assets/images/b-imprimer.png) -->
 
-[![envoyer](../assets/images/b-envoyer.png)](http://www.lepoint.fr/send-friend/form.php?titre=Croatie%20dans%20l%27UE%20:%20%22Je%20crains%20que%20l%27Europe%20ne%20devienne%20une%20nouvelle%20Yougoslavie%22&surtitre=&texte=%09C%27est%20une%20voix%20discordante%20dans%20le%20concert%20de...&url=/monde/croatie-dans-l-ue-je-crains-que-l-europe-ne-devienne-une-nouvelle-yougoslavie-01-07-2013-1687952_24.php)
+<!-- [![envoyer](../assets/images/b-envoyer.png)](http://www.lepoint.fr/send-friend/form.php?titre=Croatie%20dans%20l%27UE%20:%20%22Je%20crains%20que%20l%27Europe%20ne%20devienne%20une%20nouvelle%20Yougoslavie%22&surtitre=&texte=%09C%27est%20une%20voix%20discordante%20dans%20le%20concert%20de...&url=/monde/croatie-dans-l-ue-je-crains-que-l-europe-ne-devienne-une-nouvelle-yougoslavie-01-07-2013-1687952_24.php) -->
 
 Propos recueillis par **[Jason Wiels](http://www.lepoint.fr/journalistes-du-point/jason-wiels)**
 
-![Tom Sunic](../assets/images/tom_sunic.jpg)
+![Tom Sunic](../assets/images/tom-sunic.jpg)
 
 C'est une voix discordante dans [le concert de célébrations organisées en Croatie](http://www.lepoint.fr/monde/la-croatie-fete-son-entree-dans-l-union-europeenne-01-07-2013-1687584_24.php) pour l'entrée du pays au sein de l'Union européenne, officialisée ce 1er juillet 2013. Tomislav Sunic, croate et américain, ancien diplomate et professeur en sciences politiques, désormais intellectuel à plein temps, a grandi dans la détestation du communisme version Tito. En janvier 2012, il a voté contre l'entrée de son pays dans l'Union européenne. Lui qui a appris le français en lisant "les lettres de [Daudet](http://www.lepoint.fr/tags/alphonse-daudet)" et "la plume d'Aron" dit naviguer librement entre la pensée économique de gauche et une approche de la culture de droite. Conflit serbo-croate, situation économique difficile, corruption..., l'auteur de _La [Croatie](http://www.lepoint.fr/tags/croatie) : un pays par défaut ?_ (2010, éd. Avatar) se montre plus que pessimiste quand on lui demande si cette adhésion peut aider à régler les problèmes de son pays. Entretien.
 
