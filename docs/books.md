@@ -88,3 +88,17 @@ Cette nouvelle édition s’enrichit d’une introduction de Robert Steuckers no
 [Kupi](https://mojaknjizara.hr/proizvod/posmrtni-izvjestaj/)
 
 Kao i u svojim drugim objavljenim djelima, Tomislav Sunić neprestano usmjerava svoju pažnju na velik broj različitih tema koje utječu na europsku kulturnu i političku baštinu, uključujući i neke svete i manje svete krave, kao što su liberalizam, umjetnička baština Trećeg Reicha, religija multikulturalizma, patologija komunizma, djela Oswalda Spenglera i Carla Schmitta, kao i povijest propalog multikulturalnog entiteta poznatog kao Jugoslavija. "Posmrtni izvještaj" poziva nas da preispitamo europsku prošlost, od antike do modernizma, kroz objektiv kulturnog pesimizma. Ova zbirka eseja i prijevoda svidjet će se svakome tko želi iskren, kirurški pristup tim temama, oslobođen agende liberalne akademske zajednice.
+
+![Posmrtni izvještaj](assets/images/russian-book1.png)
+
+[Kupi](https://ukronija.rs/proizvod/izvestaj-o-smrti-evrope/)
+
+Izveštaj o smrti Evrope – Tomislav Sunić
+
+Ova zbirka članaka i eseja, koji su ranije objavljivani u raznim časopisima i bave se temama u rasponu od rase preko književne kritike do filozofije istorije, više je nego dobrodošla. Tom Sunić je važan intelektualac, tim pre što ima tako malo intelektualaca, posebno u Evropi, spremnih da se suprotstave standardnim stavovima levice koji su dominirali intelektualnim diskursom po pitanjima kao što su rasa, multikulturalizam i Drugi svetski rat. Izveštaj o smrti Evrope – Post Mortem Report.
+
+![Posmrtni izvještaj](assets/images/russian-book3.png)
+
+[Купи](https://gnosisbooks.ru/books/politologiya/protiv_demokratii_i_ravenstva/)
+
+Книга хорватского исследователя Томислава Сунича с громким названием «Против демократии и равенства», вышедшая в 1990 году и выдержавшая несколько переизданий, посвящена так называемым европейским новым правым. За этим названием, данным движению прессой и политическими оппонентами, скрывается не политическая партия, а скорее школа мысли, включающая философов, художников, социобиологов, поэтов, писателей и ученых, чей основной предмет исследования и интереса критика эгалитаризма и идеи прогресса. Согласно Суничу, новые правые, не выступая против демократии и равенства как таковых, ставят под сомнение понятие и само название «либеральной демократии», а также доктрину эгалитаризма, подразумевающего навязывание идеи равенства там, где для него нет места. Автор реконструирует правую интеллектуальную традицию ХХ века, в качестве родоначальников которой он выделяет Карла Шмитта, Освальда Шпенглера и Вильфредо Парето, и последовательно разворачивает концепцию их преемников, современных новых правых: от позаимствованной у Грамши идеи культурной гегемонии до утверждения необходимости освобождения Европы от ложных идеалов и глобалистского воздействия.
