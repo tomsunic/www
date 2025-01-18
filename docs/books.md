@@ -7,7 +7,7 @@ authors:
 
 [![Homo Americanus](assets/images/ha500-194x300.jpg)](assets/images/ha500.jpg)
 
-**[Buy](https://arktos.com/product/homo-americanus-child-of-the-postmodern-age/)**
+**[Buy](https://www.amazon.com/Homo-Americanus-Child-Postmodern-Age/dp/1912079399)**
 
 _Homo Americanus_ is a powerful investigation into the origins and dynamics of Americanism. Drawing from many long-forgotten or suppressed sources in the fields of literature, history, anthropology and philosophy, this book represents an interdisciplinary critique of America’s founding myths, its riddled present, and its questionable tomorrow.
 
@@ -15,7 +15,7 @@ Dr. Tomislav Sunic casts strong light on many facets of the American question: t
 
 [![Postmortem Report](assets/images/pmr500-194x300.jpg)](assets/images/pmr500.jpg)
 
-**[Buy](https://arktos.com/product/postmortem-report/)**
+**[Buy](https://www.amazon.com/Postmortem-Report-Cultural-Examinations-Postmodernity/dp/1912079771)**
 
 Tomislav Sunic, _Postmortem Report: Cultural Examinations from Postmodernity_ (Arktos, 2017), preface Kevin MacDonald
 
@@ -29,13 +29,13 @@ _Titans are in Town_ consists of a novella and cultural essays by Dr. Tomislav S
 
 ![Homo Americanus](assets/images/448711._UY475_SS475_-300x300.jpg)
 
-**[Buy](http://www.amazon.com/Homo-americanus-Child-Postmodern-Age/dp/1419659847)**
+**[Buy](https://www.amazon.com/Homo-americanus-Child-Postmodern-Age/dp/1419659847)**
 
 In this book, prefaced by Professor Kevin MacDonald, Dr. Tomislav Sunic describes the origins and dynamics of America's founding myths. Quoting and translating from many long-forgotten or suppressed sources from the fields of literature, history, anthropology and philosophy, the book represents an interdisciplinary compendium dealing with the topic of Americanism. The genealogy of early Calvinist Puritanism mixed with the techno-scientific religion of boundless economic progress and legally veiled in the obscure para-Biblical and Jewish-inspired sense of political self-chosenness, created a system that has little in common with its original design. Postmodern Americanism, with its abstract theories of multiculturalism and its global desire for world improvement, turned America into a menacing and self-destructive continent that puts not only the survival of America's European heritage at risk, but threatens the heritage of other peoples worldwide as well.
 
 ![Against Democracy and Equality](assets/images/Against-Democracy-and-Equality-The-European-New-Right-0-194x300.jpg)
 
-**[Buy](https://arktos.com/product/against-democracy-and-equality-the-european-new-right/)**
+**[Buy](https://www.amazon.com/Against-Democracy-Equality-European-Right/dp/1907166254)**
 
 Against Democracy and Equality was the first book ever published in the English language on the European New Right, and it remains an indispensable introduction to a school of thought which remains a vibrant force in the understanding of European politics. Dr. Sunic examines the principal themes which have concerned the thinkers of the New Right since its inception by Alain de Benoist in 1968, such as the problematic nature of the label 'New Right' for a school which sees itself as being beyond traditional concepts of both the left and the right; its revolutionary political philosophy; its conception of history in terms of cycles; its attitude toward democracy, capitalism and socialism; and its endorsement of 'pagan' spirituality. He also discusses the significance of some of the older authors who have been particularly influential on the development of the movement, such as Oswald Spengler, Carl Schmitt and Vilfredo Pareto. This new edition of Against Democracy and Equality has been completely re-edited, and offers new prefaces by both Dr. Sunic and the principal theorist of the European New Right, Alain de Benoist. Also included for the first time is the Manifesto for a European Renaissance, which highlights the positions of the New Right as it enters a new millennium.
 
@@ -47,7 +47,7 @@ Dans son livre La Croatie: un pays par défaut?, Tomislav Sunic décrit le phén
 
 ![Chroniques](assets/images/41Z5OECq8lL._SX317_BO1204203200_-192x300.jpg)
 
-**[Buy](https://www.amazon.fr/Chroniques-Temps-Postmodernes-Tomislav-Sunic/dp/1907847243)**
+**[Buy](https://www.amazon.com/Chroniques-Temps-Postmodernes-Fahrenheit-French/dp/1907847243)**
 
 A l’aune des funestes figures engendrées par les systèmes idéologiques du siècle des grandes conflagrations (homo sovieticus et sa déclinaison balkanique, homo americanus), appréhendées dans un subtil jeu de miroirs, l’essayiste et conférencier américano-croate, nourri des travaux des "nouvelles droites" européennes, des penseurs transversaux et des meilleurs auteurs euro-américains, n’hésite pas à aborder avec courage et sérénité quelques-unes des problématiques essentielles, érigées en tabous de ces temps post-démocratiques d’unidimensionnalité néo-totalitaire, en posant les bonnes questions, avant de proposer de stimulantes pistes de réflexion et d’action.
 
