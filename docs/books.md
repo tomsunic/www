@@ -53,7 +53,7 @@ A l’aune des funestes figures engendrées par les systèmes idéologiques du s
 
 ![Europska nova desnica](assets/images/m_100049790.jpg)
 
-**[Buy](https://www.superknjizara.hr/?page=knjiga&id_knjiga=100049790)**
+**[Out of stock](https://www.superknjizara.hr/?page=knjiga&id_knjiga=100049790)**
 
 Ova knjiga predstavlja zbir filozofskog nasljeđa konzervativne misli, koju je autor Tomislav Sunić prvi put napisao i obranio kao doktorsku disertaciju u Americi, 1988.g. Nakon 20 godina, knjiga konačni izlazi u trećem izdanju, ali ovaj puta na hrvatskom jeziku, u nakladi Hasanbegović. Evo konačno knjige, koja usprkos svoje velike bibliografije i citata, predstavlja lagano štivo za akademika i za gimnazijalca. U knjizi je riječ o autorima koji su znatno obilježili jednu epohu, a čiji sljedbenici će sutra imati glavnu riječ u stvaranju nove kulturne hegemonije.. Ujedno je Sunićeva knjiga idealno štivo za nacional-revolucionare, nacional-anarhiste i nacional-konzervativce - u svom postmodernom, arheofuturističkom izdanju, a koji odbacuju sve zastarjele nacionalizme i isključivosti. U dobi liberalno-komunističkog rasapa neka se Europljani vrate svojim pravim korijenima!
 
@@ -73,7 +73,7 @@ ISBN. 978-953-99698-4-2
 
 [![La Croatie](assets/images/la-croatie-300x300.png)](assets/images/la-croatie.png)
 
-[Buy](http://www.ladiffusiondulore.fr/home/792-la-croatie-un-pays-par-defaut-.html)
+[Buy](https://www.amazon.fr/Croatie-pays-par-d%C3%A9faut/dp/0955513294)
 
 Tomislav Sunic décrit le phénomène de la « soudaineté » et des aléas dans la notion du politique chez les peuples dépourvus d’États stables. En s’appuyant sur de nombreux ouvrages d’écrivains allemands, français, croates et américains, il s’intéresse plus particulièrement au cas de la Croatie avant d’élargir sa réflexion et de passer en revue les « fausses identités » qui interviennent dans la construction des nationalismes européens. Ce livre incontournable présente les identités nationales par « défaut » ou par « procuration ».
 
