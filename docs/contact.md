@@ -12,8 +12,8 @@ authors:
 - Full name: Tomislav Sunić
 - **E-mail:** <tom.sunic@gmail.com>
 - Facebook profile: [Tom Sunic](https://www.facebook.com/profile.php?id=100008876267009)
-- Telegram channel: [@TomSunic](https://t.me/TomSunic)
-<!-- - Twitter: [@Tom_Sunic](https://twitter.com/tom_sunic) -->
+- Telegram channel: [@TomSunic](https://t.me/Tom)
+- X profile: [@TomislavSunic](https://x.com/TomislavSunic)
 
 ## Ongoing affiliations
 
