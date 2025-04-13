@@ -5,6 +5,5 @@ rules:
     present: false
   document-start:
     present: false
-  line-length:
-    level: warning
-    allow-non-breakable-inline-mappings: true
+  trailing-spaces: disable
+  line-length: disable

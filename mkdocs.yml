@@ -15,9 +15,9 @@ theme:
         icon: material/brightness-7 
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       primary: black
       accent: deep orange
-      scheme: slate
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -31,6 +31,9 @@ plugins:
   - blog:
       blog_dir: .
       post_url_date_format: yyyy/MM
-  - tags:
-      tags_file: tags.md
+  - tags
   - meta-descriptions
+
+nav:
+  - Home: index.md
+  - Tags: tags.md
