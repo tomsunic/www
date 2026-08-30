@@ -10,6 +10,8 @@ authors:
 
 Nach dem Ende des Kalten Krieges und der kommunistischen Gewaltherrschaft gab es ein weitverbreitetes Bedürfnis nach einer Entkommunifizierung des öffentlichen Lebens in großen Teilen der Bevölkerung Osteuropas. Bürger, die früher Opfer des Kommunismus in Osteuropa waren, verwenden das Wort ‚lustracija’ – eine lateinische Ableitung, die häufig falsch ins Englische als ‚lustration‘ \[dt. Reinigung\] übertragen wird, die allerdings nicht jene Konnotation einer politischen Säuberung hat wie in englischsprachigen Ländern. Im Kroatischen, Serbischen oder Tschechischen bezeichnet ‚lustracija’ den starken Wunsch und das Bedürfnis, die frühere kommunistische Obrigkeit – von deren Mitgliedern noch immer viele als öffentliche Angestellte, Diplomaten oder Korrespondenten aktiv sind – aus ihrer Position zu entfernen oder zur Rechenschaft zu ziehen.
 
+<!-- more -->
+
 Zur Kennzeichnung der gegenwärtigen juristischen und politischen Debatte in Osteuropa lautet der beste Begriff ‚dekomunizacija‘ (Entkommunifizierung), da er in spezifischer Weise das erlittene Unrecht der früheren Opfer des Kommunismus benennt, wobei er gleichzeitig auf die immer noch präsenten kommunistischen Kader und ihre Mitläufer fokussiert. Verstehen läßt sich das Konzept der „lustracija“ bzw. Entkommunifizierung in Kroatien sehr leicht. Die rechtliche Umsetzung ist jedoch beinahe unlösbar. Warum ist das so?
 
 Der Wunsch vieler kroatischer Opfer des Kommunismus nach der Absetzung ex-kommunistischer Bürokraten basiert teilweise auf den abscheulichen Entdeckungen zahlloser Massengräber kroatischer und deutscher anti-kommunistischer Soldaten und Zivilisten, die 1945 und später von den siegreichen jugoslawischen Kommunisten ermordert worden waren.

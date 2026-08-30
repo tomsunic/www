@@ -11,6 +11,8 @@ To the Editor:
 
 In the wake of the joint declaration in Geneva between Presidents Franjo Tudjman of Croatia and Slobodan Milosevic of Serbia, some foreign journalists have jumped to the conclusion that such an agreement amounts to the creation of some sort of alliance against the Bosnian Muslims. Nothing could be further from the truth.
 
+<!-- more -->
+
 The joint declaration is a small but important step in the possible normalization of relations between Serbia and Croatia. This breakthrough paves the way, we hope, for mutual recognition of internationally recognized borders.
 
 It may seem ironic that Croatia, a victim of Serbian aggression, is the first country to begin normalizing relations with Serbia, or what is left of Yugoslavia. This decision was not solely Croatia's choice, but also that of the international community. Croatia and President Tudjman are doing their utmost to help restore peace in this part of Europe.

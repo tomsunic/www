@@ -10,6 +10,8 @@ authors:
 
 R&A: Le grand dissident russe Alexandre Zinoviev, qui avait fui le communisme pour rejoindre le camp de la liberté dont les Etats-Unis étaient l’emblème, avait inventé le terme d’homo sovieticus. Vous parlez, vous, d’homo americanus. A priori, en quoi ces deux types d’hommes se ressemblent-ils ?
 
+<!-- more -->
+
 TS: C’est l’état d’esprit tout d’abord. Il y a de braves homini sovietici en France du coté de Paris qui sont connus sous le nom de Gauche caviar. C’est le Même et son Double qui changent de lieux en fonction des idées à la mode. Aujourd’hui c’est l’utopie libérale qui mène la dance. D’où le fait que les anciens soixante-huitards français, les ex-communistes yougos, ou bien les scribes postsoviétiques n’ont eu aucun problème à se recycler subitement en de bons apôtres de l’américanisme. Les idées de la parousie communiste sont beaucoup plus réalisables en mimant l’esprit de l’homo americanus. Les ressemblances ? Eh bien, c’est la croyance dans le progrès, l’esprit égalitaire, le faux sentimentalisme, soit sous sa forme biblique, soit sous sa forme eschatologique visant le meilleur des mondes. Bref, tous les deux sont dépourvus du sens du tragique. C’est le signifiant qui nous trompe. Le fond du signifié, pourtant est toujours – le Même.
 
 R&A: Quels sont les piliers idéologiques de ces deux formes de régime ?

@@ -16,6 +16,8 @@ Dr. Tomislav Sunic
 
 Das Wort „Endzeiten“ erinnert an die biblischen Voraussagen über einen linearen Zeitverlauf, der in ein apokalyptisches Ende der Welt einmünden soll. Diese Idee ist typisch für den Offenbarungsmenschen, dessen Denken aus semitischen Quellen gespeist wird: „Dann sah ich einen neuen Himmel und eine neue Erde. Der erste Him­mel und die erste Erde waren verschwunden, und das Meer war nicht mehr da. Ich sah, wie die Heilige Stadt, das neue Jerusalem, von Gott aus dem Himmel herabkam“ [(Offb. 21,1-4)](http://www.die-bibel.de/bibeltext/offb21,1-4).
 
+<!-- more -->
+
 ## Schicksalszeit und lineare Zeit
 
 Heute offenbart sich dieser „semitische Geist“ im Glauben an ständigen wirtschaftlichen Fortschritt und dessen ideologischen Ablegern: Kommunismus und Liberalismus. Doch man begegnet auch im europäischen Erbe dem Begriff der Endzeiten, obgleich die europäischen Endzeiten seit immer zyklischer Natur gewesen sind. In seinem Werk beschreibt Ernst Jünger die Schicksalszeiten im Gegensatz zu heutigen technokratischen, geradlinigen und meßbaren Zeiten. Kann es für Europäer noch schlimmer werden, als es schon ist? „Das Schicksal darf geahnt, gefühlt, gefürchtet, aber es darf nicht gewußt werden. Verhielte es sich anders, so würde der Mensch das Leben eines Gefangenen führen, der die Stunde seiner Hinrichtung kennt“.[^1]

@@ -11,6 +11,8 @@ authors:
 
 Growing imprecision in the language of political discourse has turned virtually everyone into a democrat or, at least, an aspiring democrat. East,West, North, South, in all corners of the world, politicians and intellectuals profess the democratic ideal, as if their rhetorical homage to democracy could substitute for the frequently poor showing of their democratic institutions.[^1] Does liberal democracy—and this is what we take as our criterion for the "best of all democracies"—mean more political participation or less, and how does one explain that in liberal democracy electoral interests have been declining for years? Judging by voter turnout, almost everywhere in the West the functioning of liberal democracy has been accompanied by political demobilization and a retreat from political participation.[^2] Might it be, that consciously or unconsciously, the citizens of liberal democracies realize that their ballot choices can in no substantial manner affect the way their societies are governed, or worse, that the rites of liberal democracy are an elegant smoke screen for the absence of self-government?
 
+<!-- more -->
+
 ## Liberal Parenthesis and the End of the Muscled State
 
 This paper will argue both that democracy is not necessarily an accompanying feature of liberalism and that liberal democracy may often be the very opposite of what democracy is supposed to mean. Through the arguments of Carl Schmitt, I shall demonstrate that:

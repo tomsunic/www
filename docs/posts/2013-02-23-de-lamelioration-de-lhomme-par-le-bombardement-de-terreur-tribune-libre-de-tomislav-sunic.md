@@ -11,6 +11,8 @@ authors:
 
 [Bundesarchiv Bild 183-Z0309-310, Zerstörtes Dresden.jpg](http://hr.wikipedia.org/wiki/Datoteka:Bundesarchiv_Bild_183-Z0309-310%2c_Zerst%C3%B6rtes_Dresden.jpg)
 
+<!-- more -->
+
 **Du 13 au 15 février 1945, les forteresses volantes de la Royal Air Force et de l’U.S.**
 
 **Air Force déversaient sur la ville de Dresde, merveille de l’Elbe, des centaines de milliers de bombes au phosphore, détruisant une grande partie de la ville et tuant un nombre jamais encore défini d’habitants et réfugiés. Chaque année depuis la réunification de l’Allemagne, bravant les interdictions officielles et le refus de la majorité des Allemands d’y participer, de timides commémorations en mémoire des victimes se déroulent dans la ville qui a admirablement reconstruit ses trésors architecturaux. A l’occasion de ce soixante-huitième anniversaire, Tomislav Sunic, de nationalité croate, diplomate, traducteur, professeur de science politique et historien, auteur de nombreux ouvrages et articles dont certains ont été présentés par Polémia, exprime, dans une tribune libre, ses réactions sur le sort inégal réservé aux victimes innocentes de la dernière guerre. Fort de son expérience yougoslave, il fait de la ville martyre un symbole et annonce avant l’heure un cycle européen qui sera fait de violence et de guerres civiles.**

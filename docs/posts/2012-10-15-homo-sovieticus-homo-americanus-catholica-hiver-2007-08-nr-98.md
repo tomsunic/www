@@ -9,6 +9,8 @@ authors:
 
 Tomislav Sunic, essayiste croate et traducteur, ayant longuement séjourné aux Etats-Unis où il a enseigné la science politique, vit actuellement dans son pays d’origine. Il a récemment publié un ouvrage intitulé Homo Americanus : Child of the Postmodern Age (BookSurge, Charleston 2007, 15.99 $), avec une préface de l’historien Kevin MacDonald. L’auteur a accepté de s’expliquer sur le parallèle suggéré par son titre, de prime abord audacieux, avec l’homo sovieticus de Zinoviev.
 
+<!-- more -->
+
 CATHOLICA – Vous effectuez une longue comparaison entre le système soviétique et le système américain, et entre les types humains qui les caractérisent. Dans la description de la culture sociale américaine, vous notez une sorte de phobie de l’autorité, sous l’effet de l’égalitarisme. Peut-on vraiment établir un parallèle avec le communisme?
 
 TOMISLAV SUNIC – Un mot tout d’abord au sujet du titre de mon livre. J’ai d’abord été tenté par l’expression boobus americanus, inventée par le grand écrivain américain, H. L Mencken. Mais le boobus a une connotation limitée, restreinte au cadre provincial des Etats Unis; cette expression décrit plutôt un Américain un peu bête et d’esprit provincial (on dirait en France un plouc) ne reflétant guère le système-monde comme le font si bien les expressions homo sovieticus et homo americanus.

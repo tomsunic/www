@@ -9,6 +9,8 @@ authors:
 
 [www.lepoint.fr/monde/croatie-dans-l-ue-je-crains-que-l-europe-ne-devienne-une-nouvelle-yougoslavie-01-07-2013-1687952\_24.php](http://www.lepoint.fr/monde/croatie-dans-l-ue-je-crains-que-l-europe-ne-devienne-une-nouvelle-yougoslavie-01-07-2013-1687952_24.php)
 
+<!-- more -->
+
 Croatie dans l'UE : "Je crains que l'Europe ne devienne une nouvelle Yougoslavie"Le Point.fr- Publié le 01/07/2013 à 20:37- Modifié le 01/07/2013 à 20:39
 
 Pour l'essayiste croate Tomislav Sunic, qui regrette l'adhésion de son pays, l'Union européenne a sacrifié la politique sur l'autel de l'économie.

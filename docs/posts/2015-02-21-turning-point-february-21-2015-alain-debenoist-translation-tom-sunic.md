@@ -9,6 +9,8 @@ authors:
 
 When discussing the myths of ancient Greece one must first define their meaning and locate their historical settings. The word “myth” has a specific meaning when one reads the ancient Greek tragedies or when one studies the theogony or cosmogony of the early Greeks. By contrast, the fashionable expression today such as “political mythology” is often laden with value judgments and derisory interpretations. Thus, a verbal construct such as “the myth of modernity” may be interpreted as an insult by proponents of modern liberalism. To a modern, self-proclaimed supporter of liberal democracy, enamored with his own system-supporting myths of permanent economic progress and the like, phrases, such as “the myth of economic progress” or “the myth of democracy,” may appear as egregious political insults.
 
+<!-- more -->
+
 > For many contemporaries, democracy is not just a doctrine that could be discussed; it is not a “fact” that experience could contradict; it is the truth of faith beyond any dispute.[^1]
 
 Criticizing, therefore, the myth of modern democracy may be often interpreted as a sign of pathological behavior. Given this modern liberal dispensation, how does one dare use such locutions as “the myth of modern democracy,” or “the myth of contemporary historiography,” or “the myth of progress” without being punished?

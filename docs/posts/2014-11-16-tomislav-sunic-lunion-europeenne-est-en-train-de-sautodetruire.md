@@ -9,6 +9,8 @@ authors:
 
 À l'occasion des élections européennes qui devraient déplacer plus de 380 millions de citoyens du 23 du 25 mai prochain, la revue _[Éléments](http://www.revue-elements.com/elements-Europe-Marche-ou-Europe-Puissance.html)_ a lancé une grande enquête auprès de tous ses (nombreux) correspondants et amis européens sur l'état de l'Union européenne. Premier invité : le Croate Tomislav Sunić. Ancien diplomate, professeur de sciences politiques, traducteur et écrivain, il est l'auteur de [_La Croatie un pays par défaut ?_](http://www.avatareditions.com/224/la-croatie%20-un-pays-par-defaut)
 
+<!-- more -->
+
 [![Tomislav-Sunic](http://blogelements.typepad.fr/.a/6a0147e4419f47970b01a73dbeef8d970d-800wi)](http://blogelements.typepad.fr/.a/6a0147e4419f47970b01a73dbeef8d970d-pi)
 
 Tomislav Sunić et son épouse Ksenija (Xenia) Bakran-Sunić, auteur d'un recueil de poèmes «L'ancienne vie est morte/The Old Life is dead»

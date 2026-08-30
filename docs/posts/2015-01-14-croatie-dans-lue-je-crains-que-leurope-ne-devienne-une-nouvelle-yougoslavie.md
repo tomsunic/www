@@ -9,6 +9,8 @@ authors:
 
 C'est une voix discordante dans le concert de célébrations organisées en Croatie pour l'entrée du pays au sein de l'Union européenne, officialisée ce 1er juillet 2013. Tomislav Sunic, croate et américain, ancien diplomate et professeur en sciences politiques, désormais intellectuel à plein temps, a grandi dans la détestation du communisme version Tito. En janvier 2012, il a voté contre l'entrée de son pays dans l'Union européenne. Lui qui a appris le français en lisant "les lettres de Daudet" et "la plume d'Aron" dit naviguer librement entre la pensée économique de gauche et une approche de la culture de droite. Conflit serbo-croate, situation économique difficile, corruption..., l'auteur de La Croatie : un pays par défaut ? (2010, éd. Avatar) se montre plus que pessimiste quand on lui demande si cette adhésion peut aider à régler les problèmes de son pays. Entretien.
 
+<!-- more -->
+
 Le Point.fr : Quel regard portez-vous sur l'entrée de la Croatie dans l'UE ?
 
 Tomislav Sunic : Pour l'heure, je pense que l'Union européenne, telle qu'on peut l'observer, relève plus d'un "constructivisme académique" que d'une réalité politique qui refléterait la volonté de ses peuples. C'est le problème essentiel. En fait, le projet européen tel qu'il est, je le crains, me rappelle beaucoup l'ancienne République de Yougoslavie.

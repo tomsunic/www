@@ -13,6 +13,8 @@ To the Editor:
 
 On May 30, Croatia introduced a new currency called the kuna. "Kuna" is a Croatian name for marten, a small ferretlike mammal found commonly in some Croatian forests. The introduction of the monetary unit kuna has, unfortunately, led to some controversy and misunderstanding because the monetary unit kuna was also in use in pro-fascist Croatia during World War II.
 
+<!-- more -->
+
 For more than 100 years, notably between 1260 and 1384, a silver coin was regularly minted for the Croatian bans, or viceroys, with the likeness of a marten on one side. Above the marten was engraved a Jerusalem cross, while a six-pointed star was engraved below. Surrounding these symbols were the words "Monetarecis Sclavonia."
 
 The use of the marten on the coin was basically a metaphoric reference to levying taxes and for the measure of barter, which was common in medieval Croatia. The importance of the marten as a Croatian symbol is further demonstrated by the adoption of the marten as a central element on the Croatian coat of arms.

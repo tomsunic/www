@@ -13,6 +13,8 @@ Regarding the editorial "Bad Memories of Croatia" (Nov. 16):
 
 Some foreign journalists have criticized Croatia for its alleged drift toward neo-fascism. A number of well-meaning television and newspaper correspondents have accused the Croatian president, Franjo Tudjman, of reviving the Ustashe-fascist legacy of World War II Croatia. This hearsay flies in the face of the truth and needs to be rejected.
 
+<!-- more -->
+
 At the recent party congress, Mr. Tudjman honored the victims of fascism and communism, whether Jews, Serbs or Croatians. The intellectual godfathers of the ruling party in Croatia were not just19th century nationalist thinkers, but also many contemporary liberal and socialist thinkers, who fought for full Croatian sovereignty.
 
 The very fact that President Tudjman, as a young man, fought with the Communist Tito forces against Croatian Ustashes and their Nazi helpers speaks clearly in favor of the anti-fascist credentials of modern Croatia.

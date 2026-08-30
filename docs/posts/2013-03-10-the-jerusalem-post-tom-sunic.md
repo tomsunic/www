@@ -11,6 +11,8 @@ _Published Oct. 15, 2009._
 
 Sir, – Whenever an article appears in the foreign media dealing with the role ofCroatiaduring WWII, the reader must expect a deluge of unsubstantiated body counts. For their part, to prove their anti-fascist atonement, Croats worldwide must resort to apologetic disclaimers and self-accusatory mea culpas. Your writer might as well have gone a step further and declared that present-dayCroatiais a Xerox copy of the former fascist WWII Croatia – since, after all, this newly reborn state uses more or less the same insignia while officially rejecting the number of 700,000 victims allegedly killed by Croat fascists.
 
+<!-- more -->
+
 What in fact are the empirical sources that the author mines when he states that WWII Croatia was “the most murderous of the Axis-aligned countries?” Instead he discusses the marginal Croatian NGO, the Croatian Cultural Movement (HUP) and its desire to erect a monument to Ante Pavelic.
 
 Is your writer fluent in Croatian and German? Has he ever visited the German Federal Archives in Koblenz in order to give free rein to Efraim Zuroff’s admonition “to any person with any sense of moral integrity” regarding the crimes committed by Ustashi Croats? The whole piece smacks of the old-style Yugoslav communist “normative agitprop locution,” or the Soviet-styled “double talk” – which a B-student would have a hard time swallowing.

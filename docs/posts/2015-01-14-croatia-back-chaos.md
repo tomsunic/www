@@ -9,6 +9,8 @@ authors:
 
 I read with interest Jeffrey T. Kuhner's Dec. 26 Op-Ed column on Croatia and its difficult road to democracy, "Not yet Bush of the Balkans." Mr. Kuhner is right in critically assessing the pervasive Balkanesque cronyism and corruption in Croatian politics. Yet he briefly and only sketchily mentions the large-scale massacres and removal of thousands of Croat civilians and competent professionals by the former Yugoslav communist security apparatus, which is still partially alive in Croatia. One's view of what happened in ex-communist Yugoslavia and later in the late President Franjo Tudjman's Croatia depends on the observer's vested interests, his ethnic prejudices and his historical perspectives. One thing remains certain, though: Croatia lacks solid elements of civil society and ignores the Western rules of meritocracy.
 
+<!-- more -->
+
 Similar to other post-communist countries in the region, modern Croatia is deeply infected by the legacy of communist mendacity and double-dealing and the spiral of silence and civic fear. Waffling empty Western-imported cliches about human rights and market democracy, the revamped Croatian diplomacy shows amazing signs of provincialism and incompetence. What a would-be democratic Croatia needs is a solid dose of re-education and decommunization.
 
 Undoubtedly, a staggering number of Mr. Tudjman's officials were recycled communists who briefly put on display a feigned Croat patriotism. Was not the current President Stipe Mesic also Mr. Tudjman's pal until their fateful split in 1994?

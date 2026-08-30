@@ -10,6 +10,8 @@ authors:
 
 Interpretations of any text, on any social subject and at any time, including the interpretation of the verses by the Roman poet Juvenal, are also the mirror image of the dominant political ideas — the dominant zeitgeist. But who will control the interpreter if many Western dissident thinkers today are forced to follow the pedagogical ukases set up by politicians after the end of World War II? In this respect one could cite Juvenal and his famous verse in the Sixth satire: “Quis custodet ipsos custodes.” Who will guard the guardians?, or better yet who will control the architects of today’s newspeak which is raging in the Western universities and in the mass media?
 
+<!-- more -->
+
 More or less the same principle of intellectual censorship and self-censorship reigns today in the study and research on different races. Given the liberal-communist dogma of progress and the belief that races are solely a social construct and not a biological fact, and in view of the climate of self-censorship running rampant in high education and in the media, it must not come as a surprise that scholars who analyze differences between human races are often accused of using “ethnic stereotypes.”
 
 Now, the term “stereotype” has become yet another buzzword today among scores of speech sanitizers in Europe. The same procedure of lexical hygienics is taking

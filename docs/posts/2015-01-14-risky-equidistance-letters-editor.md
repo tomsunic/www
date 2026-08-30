@@ -11,6 +11,8 @@ Published: May 31, 1994
 
 Part of the cause of the never-ending quality of the war in Bosnia-Herzegovina lies in the excessive legalism of international organizations. In 1991, when Yugoslavia began to fall apart, Croatia expected the European Community and United Nations to quickly accept its bid for independence, hoping that its international recognition would stave off the looming Yugoslav Army aggression.
 
+<!-- more -->
+
 In the absence of international recognition, and due to its lack of firepower, Croatia could not put up credible deterrence against Yugoslav, i.e. Serbian, territorial appetites. Croatia had to wait six long months before it was finally recognized by the European Community, and several more months before it joined the UN club.
 
 Meanwhile, it had lost 25 percent of its territory to the invading Serb-dominated Yugoslav Army, and continues to shoulder a burden of over 500,000 refugees and displaced people.

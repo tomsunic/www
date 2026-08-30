@@ -2,17 +2,35 @@ site_name: Tom Sunic
 site_description: Home page of Tomislav (Tom) Sunic.
 site_author: Tomislav Sunić
 site_url: https://www.tomsunic.com/
-copyright: © 2011-2024 Tomislav Sunić. Hosted on <a href="https://github.com/">GitHub</a>. Deployed using a <a href="https://group.miletic.net/en/blog/2022-11-01-publishing-material-for-mkdocs-website-to-github-pages-using-custom-actions-workflow/">custom third-party script</a>.
+copyright: © 2011-2026 Tomislav Sunić. Hosted on <a href="https://github.com/">GitHub</a>. Deployed using a <a href="https://group.miletic.net/en/blog/2022-11-01-publishing-material-for-mkdocs-website-to-github-pages-using-custom-actions-workflow/">custom third-party script</a>.
 
 theme:
   name: material
-  palette: 
+  language: en
+  favicon: assets/images/tom-sunic-400x400.jpg
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.tracking
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.tooltips
+  font:
+    text: Source Sans 3
+    heading: Playfair Display
+  palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: white
       accent: deep orange
       toggle:
-        icon: material/brightness-7 
+        icon: material/brightness-7
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
@@ -24,6 +42,11 @@ theme:
 
 markdown_extensions:
   - footnotes
+  - attr_list
+  - md_in_html
+  - admonition
+  - toc:
+      permalink: true
 
 plugins:
   - search
@@ -31,9 +54,69 @@ plugins:
   - blog:
       blog_dir: .
       post_url_date_format: yyyy/MM
+      post_excerpt_max_authors: 1
   - tags
   - meta-descriptions
 
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/solid/envelope
+      link: mailto:tom.sunic@gmail.com
+      name: E-mail
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/tomsunicofficial/
+      name: Facebook
+    - icon: simple/substack
+      link: https://substack.com/@tomsunic
+      name: Substack
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/Tom
+      name: Telegram
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/tomsunic/
+      name: LinkedIn
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/TomislavSunic
+      name: X
+    - icon: fontawesome/brands/github
+      link: https://github.com/tomsunic
+      name: GitHub
+
 nav:
   - Home: index.md
-  - Tags: tags.md
+  - Books: books.md
+  - Library:
+      - biblioteka/europska-nova-desnica/index.md
+      - Preambula:
+          - biblioteka/europska-nova-desnica/0-1-prolog-drugom-hrvatskom-izdanju.md
+          - biblioteka/europska-nova-desnica/0-2-prolog-prvom-hrvatskom-izdanju.md
+          - biblioteka/europska-nova-desnica/0-3-predgovor-autora-hrvatskom-izdanju.md
+          - biblioteka/europska-nova-desnica/0-4-predgovor-paula-gottfrieda-engleskom-izdanju.md
+          - biblioteka/europska-nova-desnica/0-5-jedna-povijest-predgovor-alaina-de-benoista.md
+      - Nova desnica:
+          - Uvod: biblioteka/europska-nova-desnica/1-1-uvod.md
+          - biblioteka/europska-nova-desnica/1-2-pojava-nove-desnice.md
+          - biblioteka/europska-nova-desnica/1-3-antonio-gramsci-na-desnici.md
+          - biblioteka/europska-nova-desnica/1-4-konzervativna-ljevica-ili-revolucionarna-desnica.md
+          - biblioteka/europska-nova-desnica/1-5-carl-schmitt-i-politika-kao-sudbina.md
+          - biblioteka/europska-nova-desnica/1-6-oswald-spengler-i-povijest-kao-sudbina.md
+          - biblioteka/europska-nova-desnica/1-7-vilfredo-pareto-i-politicka-patologija.md
+          - biblioteka/europska-nova-desnica/1-8-poganska-desnica.md
+      - Egalitarna mistika:
+          - Uvod: biblioteka/europska-nova-desnica/2-1-uvod.md
+          - biblioteka/europska-nova-desnica/2-2-metafizika-jednakosti.md
+          - biblioteka/europska-nova-desnica/2-3-nova-desnica-i-nedostizna-jednakost.md
+          - biblioteka/europska-nova-desnica/2-4-homo-economicus-rat-svih-protiv-sviju.md
+          - biblioteka/europska-nova-desnica/2-5-totalitarizam-i-egalitarizam.md
+          - biblioteka/europska-nova-desnica/2-6-homo-sovieticus-komunizam-kao-egalitarna-entropija.md
+          - biblioteka/europska-nova-desnica/2-7-zakljucak.md
+      - Dodatak:
+          - biblioteka/europska-nova-desnica/3-1-biografske-crtice.md
+          - biblioteka/europska-nova-desnica/3-2-manifest-za-europsku-obnovu.md
+          - biblioteka/europska-nova-desnica/3-3-europski-sin-intervju-s-alainom-de-benoistom.md
+          - biblioteka/europska-nova-desnica/bibliografija.md
+          - biblioteka/europska-nova-desnica/abecedni-popis.md
+  - Contact: contact.md

@@ -10,6 +10,8 @@ authors:
 
 Physical blindness and the verdict of ignorance, meted out to envious politicians in Dante’s epic poem, can often be bliss. Eyelessness can have advantages, as demonstrated by the blind, poor, uneducated, self-effacing, albeit very intelligent seer, Tiresias, who is brought to the court of King Oedipus, only to announce to him his eyeless future of blind destiny ([vv 364-377](https://www.gutenberg.org/files/27673/27673-h/27673-h.htm)).
 
+<!-- more -->
+
 For that matter willful ignorance and dismissal of the brainwashing curriculum in the modern educational system in the US and EU can be a sign of a healthy state of mind. What on earth is to be seen in the political process in multicultural America and Europe today? What good can be learned in multiracial colleges in Europe, whose program consists of lessons on White man’s guilt? For centuries, in order to avoid envy-inducing temptations, high-IQ young introspective White European males opted for monastic life. The harmful side of monasticism was that it prevented good genes to be passed on to future offspring, thus leaving the political arena open to an array of genetic and character misfits: the bad, the ugly and the envious.
 
 Lengthy is the list of authors, usually associated with the heritage of cultural conservatism, who have prodded into the roots of envy-driven politicians. Highly envious politicians are usually very cunning individuals, with above average IQ, possessing, in addition, good skills at camouflaging their moral sleaziness with an aura of tearful humanitarian palaver. They also excel at expressions of sympathy for the plight of their future prey.

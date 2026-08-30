@@ -10,6 +10,8 @@ authors:
 
 Days and months of atonement keep accumulating on the European wall calendar. The days of atonement however, other than commemorating the dead, often function as a tool in boosting political legitimacy of a nation – often at the expense of another nearby nation struggling for its identity.
 
+<!-- more -->
+
 While the media keep reassuring us that history is crawling to an end, what we are witnessing instead is a sudden surge of new historical victimhoods, particularly among the peoples of Eastern Europe. As a rule, each individual victimhood requires a forever expanding number of its own dead within the context of unavoidable lurking fascist demons.
 
 Expressed in the postmodern lingo of today, the modern media-made image trivializes the real death and dying into an image of a hyperreal and surreal non-event. For instance, the historical consciousness of Serbs vs. Croats, Poles vs. Germans, not to mention the victimological memories of the mutually embattled Ukrainian and Russian nationalists today, are becoming more “historical” than their previously recorded respective histories.

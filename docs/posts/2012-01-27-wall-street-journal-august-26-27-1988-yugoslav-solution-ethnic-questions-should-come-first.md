@@ -14,6 +14,8 @@ authors:
 
 Since 1980, the year of President Tito’s death, Yugoslavia has been edging toward a political, economic and ideological crisis. Until last year, the Communist League had been able to achieve a semblance of stability by repeatedly reassuring its disgruntled citizens that "next year it will be better." But the ongoing deterioration of the Yugoslav economy and the continuing ethnic ferment has finally made the party hard-liners realize that the survival of the country depends on urgent political and economic overhaul.
 
+<!-- more -->
+
 Yet the solution is not easy to find. Though the party has shown more good toward dissenting voices and has gone as far as to admit large-scale corruption and mismanagement among some of its top-ranking officials, it is still miles away from adopting a market economic and genuine political pluralism. The recently thwarted military coup against the most liberal and prosperous republic of Slovenia, still hotly debated in this tiny western-most republic, bears witness that Yugoslav authorities are deeply divided, and that hard-liners and liberals have diametrically opposite political and economic objectives.
 
 The central issue behind the continuing struggles in Yugoslavia is again the unresolved question of the country’s five different nations that live side by side. Ethnic animosity between Western European and Byzantine Balkan cultures brought pre-war Yugoslavia to its collapse. Today it is again shaking the country’s fragile unity, albeit this time with more vocal ethnic contestants. As the case of Slovenia shows, the increased demands for autonomy only corroborate the fact that liberalization cannot be a piecemeal process.

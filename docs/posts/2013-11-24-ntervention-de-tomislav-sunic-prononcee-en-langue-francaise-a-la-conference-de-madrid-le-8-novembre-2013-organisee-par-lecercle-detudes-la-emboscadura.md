@@ -12,6 +12,8 @@ authors:
 
 source: [Polemia 20 novembre, 2013 | POLÉMIA](http://www.polemia.com/apres-la-chute-et-la-renaissance-du-tragique/#!prettyPhoto/0/)
 
+<!-- more -->
+
 Intervention de Tomislav Sunic prononcée en langue française à la conférence de Madrid, le 8 novembre 2013, organisée par le Cercle d’Etudes La Emboscadura.
 
 Tomislav Sunic, de nationalité croate, ancien diplomate, ancien professeur de science politique, écrivain et historien, auteur de nombreux ouvrages et articles dont certains ont été présentés par Polémia, livre ses réflexions sur le destin du monde. Contrairement à certains penseurs et auteurs européens, il voit dans le futur un éternel recommencement où l’homme devra poursuivre sa lutte prométhéenne, marquée par le désir de l’exploit, le goût du dépassement et la foi dans la grandeur humaine.

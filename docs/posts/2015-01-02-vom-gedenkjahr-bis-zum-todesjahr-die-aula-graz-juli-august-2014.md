@@ -17,6 +17,8 @@ Dr. Tomislav Sunic
 
 Jedes Gedenkjahr bringt die Erinnerung an vergangene Zeiten, die man entweder aufs neue wiederbeleben möchte oder für Andersdenkende als politisch-pädagogisches Jahr der Mahnung anzuwenden versucht. Das deutsche Wort „Gedenkjahr" läßt sich nicht leicht in andere Sprachen übersetzen, und oft ruft dieses Wort bei anderen Völkern schwere Mißverständnisse hervor. Das Wort „Gedenkjahr" wird auf Englisch oder Französisch zu-gleich als „Erinnerungsjahr" und als „Jubiläumsjahr" übersetzt — zwei völlig gegensätzliche politische Begriffe!
 
+<!-- more -->
+
 Je nach verschiedenen Völkern und ihren historischen Gesinnungen kann ein Gedenkjahr als Hoffnung, Freude, Sehnsucht, aber auch als Ermahnung, Androhung von Strafe und als Angstmittel benutzt werden. Im bezug auf unser eigenes Gedenkjahrfeiern erinnern wir uns heute an unsere Lebensdauer und schwärmen gerne von einem fröhlichem Datum in unserer Volksgeschichte. Auch wenn man seinen Geburtstag glücklich feiert und wenn man noch dazu als uralter Greise ein gutes Gedächtnis behält, wie z.B. Ernst Jünger oder Johann Wolfgang Goethe, dann kann man sagen, daß das Leben einen gewissen Sinn gehabt hat.
 
 Auch wenn man seinen 60. Jahrestag hinter sich hat, soll man sich fragen, wozu man mehr Gedenkjahre braucht. Der französisch-rumänische Ultranihilist und Kulturpessimist, der Philosoph Emile Cioran, hat geschrieben, man sollte nicht länger als 40 Jahre leben. Anläßlich seines 70. Geburtstages sagte Cioran, daß ihm von nun an weitere Glückwünsche grotesk vorkommen. Einige Jahre vor seinem Tode, in einem Interview im Jahre 1987 für den französischen Herausgeber Laurence Tacou der Cahiers de L‘Herne, sagte er: „In fünf-zig Jahren wird Notre Dame eine Moschee sein."

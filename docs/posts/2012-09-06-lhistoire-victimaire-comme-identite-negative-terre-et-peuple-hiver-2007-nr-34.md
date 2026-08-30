@@ -10,6 +10,8 @@ authors:
 
 (Cet article est tiré du discours prononcé par T. Sunic à la XIIe Table ronde de Terre et Peuple, Paris - Versailles, le 21 octobre 2007)
 
+<!-- more -->
+
 <http://www.terreetpeuple.com/>
 
 Tomislav Sunic

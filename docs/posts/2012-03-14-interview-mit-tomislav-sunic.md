@@ -9,6 +9,8 @@ authors:
 
 Von _[**Alex Kurtagić** ("View all posts by Alex Kurtagić")](http://www.counter-currents.com/author/akurtagic/)_, übersetzt von Deep Roots.
 
+<!-- more -->
+
 Das Original "**[Interview with Tomislav Sunić ("Permalink to Interview with Tomislav Sunić")](http://www.counter-currents.com/2010/11/interview-with-tomislav-sunic/)**" erschien am 10. November 2010 bei **_[Counter-Currents Publishing](http://www.counter-currents.com/)_**.
 
 Tomislav (Tom) Sunić ist ein ehemaliger US-Professor, Autor, Übersetzer und ehemaliger kroatischer Diplomat. Er absolvierte sein Grundstudium in Literatur und Sprachen in Europa. Er erhielt seinen Doktorgrad in Politikwissenschaften an der University of California. Dr. Sunić hat Bücher und Artikel auf Französisch, Deutsch, Englisch und Kroatisch über Themen veröffentlicht wie Kulturpessimismus, die Psychologie des Kommunismus und Liberalismus und den Gebrauch und Mißbrauch moderner Sprachen im modernen politischen Diskurs. Das vorliegende Interview erforscht ein wenig den Mann hinter den Ideen; wir erfahren ein paar Dinge, die Dr. Sunić nie zuvor über seine Vergangenheit und Persönlichkeit erzählt hat. Natürlich erzählt uns Dr. Sunić etwas über sein neues, auf Französisch erschienenes Buch, über seine frühen Jahre im kommunistischen Jugoslawien, über die Kunst des Übersetzens und mehr.

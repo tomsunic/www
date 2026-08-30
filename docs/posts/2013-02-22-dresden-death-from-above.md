@@ -16,6 +16,8 @@ authors:
 
 What follows below is the English translation of my speech in German which I was scheduled to deliver on February 13, 2013, around 7:00 PM in downtown Dresden. The commemoration of the Dresden February 13, 1945 victims was organized by “[Aktionsbündnis gegen das Vergessen](http://www.gedenkmarsch.de/dresden/archiv/trauermarsch-13-februar/)” (action committee against oblivion), NPD deputies and officials from the [local state assembly](http://www.npd-dresden.de/) in Dresden. There were 3,000 leftist antifa demonstrators. The city was under siege, cordoned off into sections by 4,000 riot policemen. The bulk of the nationalist participants, approximately 1,000, who had previously arrived at the central station, were split up and prevented from joining with our group at the original place of gathering. Toward 11:00 PM, when the event was practically over, the riot police did allow our small group of organizers and speakers to march past the barricades down to the central station. There were approximately 40 of us—mostly local NPD officials. On February 14, while still in Dresden, I provided more information as a guest on the Deanna Spingola’s RBN radio show: [Hour 1](http://216.240.133.177/archives32/Spingola/2013/02/Spingola_1_021413_110000.mp3), [Hour 2](http://216.240.133.177/archives32/Spingola/2013/02/Spingola_2_021413_120000.mp3).
 
+<!-- more -->
+
 ![Dresden gedenkt der Zerstoerung der Stadt vor 68 Jahren](../assets/images/dresden-2013.jpg)
 
 Police separate groups of right-wing and left-wing demonstrators outside Dresden’s central train station.

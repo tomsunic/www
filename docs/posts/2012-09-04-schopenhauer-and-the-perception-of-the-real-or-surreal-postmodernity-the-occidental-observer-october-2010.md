@@ -14,6 +14,8 @@ Tom Sunic
 
 The text below is the expanded version of Tom Sunic’s speech, delivered at the New Right conference in London, on October 23, 2010.
 
+<!-- more -->
+
 ---
 
 There is a danger in interpreting the text of some long gone author, let alone of some heavyweight philosopher, such as Arthur Schopenhauer (1788 – 1860). The interpreter tends to look at parts of the author’s prose that may best suit his own conclusions, while avoiding parts that other critics may find more relevant, and which the interpreter may consider either incomprehensible or irrelevant. This is true for Schopenhauer in so far as he deals in his multilayered work with diverse subject matters, ranging from the theories of knowledge, to the role of women, sex, eugenics, religion, etc., while offering aphoristic formulas on how to live a more or less liveable life. Moreover, in his entire work Schopenhauer deals extensively with the perception of objective reality, our self-perception, and how our self-perception reflects itself in the perception of the Other, for instance in the mind of my political foe or friend. It’s no wonder that when Schopenhauer is read along with some postmodern authors, his work can retrospectively yield some groundbreaking insights, of which even he was not aware.

@@ -10,6 +10,8 @@ authors:
 
 **Deutsche Stimme 2/2013 – Gespräch.**
 
+<!-- more -->
+
 **[ds-aktuell.de](http://ds-aktuell.de/)**
 
 **Frage: Herr Dr. Sunic, in diesem Jahr treten Sie erstmals als Redner beim Dresdner Trauermarsch zum Gedenken an die Opfer des alliierten Bombenterrors vom 13./14. Februar 1945 auf. Was verbindet Sie mit Dresden und der wechselvollen Geschichte dieser Stadt?**
